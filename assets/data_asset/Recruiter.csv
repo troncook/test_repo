@@ -1,0 +1,1471 @@
+EmployeeNumber,Age,Education,EducationField,Gender,JobRole,NumCompaniesWorked,Over18,TotalWorkingYears
+1,41,2,Life Sciences,Female,Sales Executive,8,Y,8
+2,49,1,Life Sciences,Male,Research Scientist,1,Y,10
+4,37,2,Other,Male,Technician,6,Y,7
+5,33,4,Life Sciences,Female,Research Scientist,1,Y,8
+7,27,1,Medical,Male,Technician,9,Y,6
+8,32,2,Life Sciences,Male,Technician,0,Y,8
+10,59,3,Medical,Female,Technician,4,Y,12
+11,30,1,Life Sciences,Male,Technician,1,Y,1
+12,38,3,Life Sciences,Male,Marketing Director,0,Y,10
+13,36,3,Medical,Male,Brand Representative,6,Y,17
+14,35,3,Medical,Male,Technician,0,Y,6
+15,29,2,Life Sciences,Female,Technician,0,Y,10
+16,31,1,Life Sciences,Male,Research Scientist,1,Y,5
+18,34,2,Medical,Male,Technician,0,Y,3
+19,28,3,Life Sciences,Male,Technician,5,Y,6
+20,29,4,Life Sciences,Female,Marketing Director,1,Y,10
+21,32,2,Life Sciences,Male,Research Scientist,0,Y,7
+22,22,2,Medical,Male,Technician,1,Y,1
+23,53,4,Life Sciences,Female,Manager,2,Y,31
+24,38,3,Life Sciences,Male,Research Scientist,5,Y,6
+26,24,2,Other,Female,Marketing Director,0,Y,5
+27,36,4,Life Sciences,Male,Sales Representative,7,Y,10
+28,34,4,Life Sciences,Female,Research Director,0,Y,13
+30,21,2,Life Sciences,Male,Research Scientist,1,Y,0
+31,34,1,Medical,Male,Research Scientist,2,Y,8
+32,53,3,Other,Female,Manager,4,Y,26
+33,32,1,Life Sciences,Female,Research Scientist,1,Y,10
+35,42,4,Marketing,Male,Sales Executive,0,Y,10
+36,44,4,Medical,Female,Brand Representative,3,Y,24
+38,46,4,Marketing,Female,Manager,3,Y,22
+39,33,3,Medical,Male,Technician,4,Y,7
+40,44,4,Other,Male,Brand Representative,2,Y,9
+41,30,2,Medical,Male,Technician,1,Y,10
+42,39,3,Technical Degree,Male,Sales Representative,3,Y,19
+45,24,3,Medical,Male,Research Scientist,2,Y,6
+46,43,2,Medical,Female,Research Scientist,1,Y,6
+47,50,2,Marketing,Male,Sales Representative,1,Y,3
+49,35,3,Marketing,Female,Sales Representative,1,Y,2
+51,36,4,Life Sciences,Female,Research Scientist,9,Y,6
+52,33,3,Life Sciences,Female,Sales Executive,2,Y,10
+53,35,2,Other,Male,Technician,1,Y,1
+54,27,4,Life Sciences,Female,Technician,1,Y,1
+55,26,3,Life Sciences,Male,Technician,1,Y,1
+56,27,3,Life Sciences,Male,Sales Executive,1,Y,9
+57,30,2,Medical,Female,Technician,1,Y,12
+58,41,3,Technical Degree,Female,Research Director,1,Y,23
+60,34,4,Marketing,Male,Sales Executive,0,Y,10
+61,37,2,Life Sciences,Male,Research Scientist,4,Y,8
+62,46,4,Marketing,Male,Sales Executive,4,Y,14
+63,35,1,Life Sciences,Male,Technician,1,Y,1
+64,48,2,Life Sciences,Male,Technician,9,Y,23
+65,28,4,Technical Degree,Male,Technician,1,Y,2
+68,44,5,Marketing,Female,Sales Executive,5,Y,9
+70,35,2,Medical,Male,Brand Representative,2,Y,10
+72,26,3,Marketing,Female,Sales Executive,7,Y,5
+73,33,2,Life Sciences,Female,Research Director,1,Y,15
+74,35,5,Life Sciences,Male,Sales Executive,1,Y,9
+75,35,4,Medical,Female,Technician,3,Y,4
+76,31,4,Life Sciences,Male,Technician,3,Y,10
+77,37,4,Life Sciences,Male,Marketing Director,1,Y,7
+78,32,3,Medical,Male,Marketing Director,1,Y,9
+79,38,5,Life Sciences,Female,Technician,1,Y,10
+80,50,2,Medical,Female,Research Director,5,Y,29
+81,59,3,Life Sciences,Female,Sales Executive,7,Y,28
+83,36,3,Technical Degree,Female,Brand Representative,1,Y,17
+84,55,3,Medical,Female,Manager,2,Y,21
+85,36,3,Life Sciences,Male,Marketing Director,1,Y,6
+86,45,3,Life Sciences,Male,Research Scientist,2,Y,25
+88,35,3,Medical,Male,Research Scientist,4,Y,5
+90,36,3,Medical,Male,Research Scientist,0,Y,2
+91,59,1,Life Sciences,Female,Sales Executive,7,Y,20
+94,29,3,Life Sciences,Male,Research Scientist,0,Y,6
+95,31,4,Medical,Male,Research Scientist,1,Y,1
+96,32,3,Life Sciences,Male,Research Scientist,1,Y,10
+97,36,3,Life Sciences,Female,Technician,3,Y,5
+98,31,4,Life Sciences,Female,Marketing Director,1,Y,11
+100,35,4,Marketing,Male,Sales Executive,0,Y,16
+101,45,4,Other,Male,Research Director,4,Y,17
+102,37,4,Medical,Male,Research Director,4,Y,16
+103,46,2,Medical,Male,Human Resources,8,Y,16
+104,30,1,Life Sciences,Male,Technician,1,Y,10
+105,35,3,Medical,Male,Research Scientist,1,Y,6
+106,55,2,Life Sciences,Male,Sales Executive,3,Y,24
+107,38,3,Medical,Female,Research Scientist,7,Y,17
+110,34,2,Medical,Male,Marketing Director,1,Y,5
+112,56,3,Life Sciences,Male,Marketing Director,4,Y,37
+113,23,1,Technical Degree,Male,Sales Representative,3,Y,3
+116,51,4,Life Sciences,Male,Technician,3,Y,10
+117,30,3,Life Sciences,Male,Brand Representative,1,Y,11
+118,46,2,Medical,Male,Sales Executive,1,Y,9
+119,40,4,Life Sciences,Male,Brand Representative,1,Y,22
+120,51,4,Marketing,Male,Sales Executive,0,Y,11
+121,30,2,Medical,Female,Sales Executive,1,Y,11
+124,46,3,Medical,Male,Brand Representative,2,Y,21
+125,32,4,Medical,Male,Sales Executive,1,Y,12
+126,54,4,Technical Degree,Female,Research Director,9,Y,16
+128,24,2,Other,Female,Sales Executive,0,Y,4
+129,28,3,Medical,Male,Sales Executive,1,Y,5
+131,58,4,Medical,Male,Sales Executive,0,Y,38
+132,44,3,Medical,Male,Technician,4,Y,17
+133,37,4,Human Resources,Male,Human Resources,4,Y,7
+134,32,1,Life Sciences,Male,Research Scientist,1,Y,1
+137,20,3,Life Sciences,Female,Technician,1,Y,1
+138,34,4,Other,Female,Research Scientist,1,Y,16
+139,37,2,Life Sciences,Male,Brand Representative,5,Y,17
+140,59,4,Human Resources,Female,Manager,9,Y,30
+141,50,3,Life Sciences,Female,Research Director,3,Y,28
+142,25,3,Marketing,Male,Sales Executive,1,Y,6
+143,25,1,Medical,Male,Research Scientist,1,Y,2
+144,22,3,Medical,Female,Technician,1,Y,1
+145,51,4,Medical,Female,Brand Representative,3,Y,23
+147,34,3,Life Sciences,Male,Technician,1,Y,9
+148,54,3,Human Resources,Female,Manager,2,Y,23
+150,24,1,Life Sciences,Male,Technician,0,Y,6
+151,34,4,Life Sciences,Female,Research Scientist,6,Y,12
+152,37,3,Life Sciences,Male,Sales Executive,2,Y,12
+153,34,3,Medical,Female,Manager,2,Y,14
+154,36,2,Technical Degree,Female,Sales Executive,0,Y,10
+155,36,2,Life Sciences,Female,Technician,5,Y,7
+158,43,2,Life Sciences,Male,Manager,1,Y,25
+159,30,3,Life Sciences,Male,Research Scientist,1,Y,10
+160,33,2,Marketing,Male,Sales Executive,0,Y,8
+161,56,4,Life Sciences,Female,Research Scientist,9,Y,7
+162,51,3,Life Sciences,Male,Research Director,7,Y,23
+163,31,4,Life Sciences,Male,Sales Executive,4,Y,12
+164,26,3,Other,Female,Research Scientist,1,Y,5
+165,58,4,Medical,Female,Brand Representative,1,Y,40
+167,19,1,Marketing,Male,Sales Representative,1,Y,0
+169,22,1,Technical Degree,Male,Technician,0,Y,3
+170,49,4,Medical,Female,Marketing Director,1,Y,16
+171,43,3,Medical,Female,Research Scientist,4,Y,18
+174,50,3,Marketing,Female,Sales Executive,4,Y,16
+175,31,3,Life Sciences,Female,Sales Executive,3,Y,4
+176,41,1,Life Sciences,Male,Sales Executive,3,Y,12
+177,26,1,Life Sciences,Female,Human Resources,1,Y,8
+178,36,2,Medical,Male,Marketing Director,6,Y,7
+179,51,4,Life Sciences,Male,Marketing Director,2,Y,18
+182,39,4,Life Sciences,Female,Sales Executive,4,Y,17
+183,25,3,Life Sciences,Male,Sales Executive,2,Y,6
+184,30,3,Human Resources,Male,Human Resources,0,Y,12
+190,32,3,Medical,Female,Technician,7,Y,10
+192,45,3,Medical,Male,Research Scientist,5,Y,9
+193,38,5,Technical Degree,Female,Research Scientist,3,Y,19
+194,30,3,Life Sciences,Female,Research Scientist,1,Y,5
+195,32,2,Medical,Male,Sales Executive,0,Y,9
+197,30,3,Technical Degree,Female,Research Scientist,5,Y,8
+198,30,1,Medical,Male,Technician,0,Y,6
+199,41,3,Life Sciences,Male,Manager,4,Y,21
+200,41,4,Life Sciences,Male,Technician,2,Y,7
+201,19,1,Medical,Female,Technician,1,Y,1
+202,40,3,Medical,Female,Research Scientist,1,Y,20
+204,35,5,Marketing,Male,Sales Executive,1,Y,10
+205,53,2,Marketing,Male,Sales Representative,2,Y,13
+206,45,3,Life Sciences,Male,Technician,8,Y,20
+207,32,3,Marketing,Female,Sales Executive,1,Y,9
+208,29,1,Technical Degree,Male,Marketing Director,1,Y,10
+211,51,4,Medical,Male,Marketing Director,2,Y,10
+214,58,3,Medical,Female,Research Scientist,4,Y,9
+215,40,4,Marketing,Male,Sales Executive,7,Y,15
+216,34,4,Marketing,Female,Sales Representative,6,Y,6
+217,22,1,Medical,Male,Research Scientist,1,Y,2
+218,27,3,Medical,Male,Research Scientist,6,Y,6
+221,28,3,Medical,Male,Research Scientist,1,Y,5
+223,57,2,Life Sciences,Male,Brand Representative,3,Y,12
+224,27,3,Medical,Male,Research Scientist,1,Y,1
+226,50,3,Life Sciences,Female,Manager,3,Y,21
+227,41,3,Life Sciences,Male,Research Scientist,4,Y,13
+228,30,3,Life Sciences,Female,Sales Executive,2,Y,12
+230,38,4,Life Sciences,Female,Sales Executive,4,Y,12
+231,32,5,Life Sciences,Male,Research Scientist,3,Y,8
+233,27,3,Technical Degree,Male,Research Scientist,0,Y,6
+235,19,1,Technical Degree,Female,Sales Representative,0,Y,1
+238,36,2,Medical,Male,Technician,4,Y,13
+239,30,3,Medical,Male,Technician,1,Y,12
+240,45,2,Life Sciences,Female,Sales Executive,4,Y,9
+241,56,3,Life Sciences,Female,Research Scientist,4,Y,19
+242,33,3,Life Sciences,Male,Research Scientist,0,Y,4
+243,19,3,Life Sciences,Male,Technician,1,Y,1
+244,46,2,Marketing,Female,Sales Executive,1,Y,24
+245,38,2,Life Sciences,Female,Technician,1,Y,2
+246,31,1,Medical,Female,Research Scientist,8,Y,7
+247,34,2,Medical,Female,Research Scientist,2,Y,9
+248,41,2,Marketing,Female,Sales Representative,1,Y,4
+249,50,3,Medical,Male,Technician,2,Y,5
+250,53,2,Medical,Female,Marketing Director,1,Y,5
+252,33,3,Medical,Female,Research Scientist,1,Y,8
+253,40,1,Medical,Female,Manager,1,Y,21
+254,55,4,Medical,Male,Research Director,8,Y,36
+256,34,1,Life Sciences,Male,Marketing Director,1,Y,10
+258,51,3,Medical,Female,Brand Representative,3,Y,21
+259,52,4,Life Sciences,Male,Manager,0,Y,34
+260,27,3,Medical,Female,Research Scientist,1,Y,7
+261,35,2,Life Sciences,Male,Marketing Director,3,Y,8
+262,43,3,Medical,Male,Research Scientist,4,Y,7
+264,45,2,Medical,Male,Manager,9,Y,22
+267,37,3,Life Sciences,Male,Research Scientist,1,Y,8
+269,35,3,Medical,Female,Technician,5,Y,10
+270,42,2,Medical,Female,Marketing Director,2,Y,11
+271,38,4,Life Sciences,Male,Marketing Director,9,Y,14
+273,38,3,Technical Degree,Male,Marketing Director,3,Y,9
+274,27,1,Technical Degree,Male,Marketing Director,5,Y,6
+275,49,4,Life Sciences,Male,Marketing Director,1,Y,7
+277,34,4,Medical,Male,Research Scientist,1,Y,5
+281,40,2,Medical,Male,Technician,8,Y,15
+282,38,1,Medical,Male,Brand Representative,7,Y,17
+283,29,3,Marketing,Female,Sales Executive,1,Y,10
+284,22,3,Life Sciences,Male,Research Scientist,1,Y,4
+286,36,1,Medical,Female,Technician,1,Y,8
+287,40,5,Life Sciences,Male,Brand Representative,9,Y,5
+288,46,4,Medical,Male,Brand Representative,7,Y,17
+291,32,4,Medical,Male,Sales Executive,1,Y,14
+292,30,1,Life Sciences,Male,Marketing Director,1,Y,12
+293,27,3,Life Sciences,Female,Sales Executive,1,Y,7
+296,51,4,Life Sciences,Male,Research Director,5,Y,16
+297,30,3,Technical Degree,Female,Research Scientist,5,Y,8
+298,41,3,Life Sciences,Female,Manager,3,Y,16
+299,30,4,Marketing,Female,Sales Executive,5,Y,9
+300,29,3,Technical Degree,Male,Research Scientist,0,Y,7
+302,45,3,Medical,Female,Sales Executive,6,Y,23
+303,54,3,Marketing,Female,Sales Executive,2,Y,16
+304,36,2,Life Sciences,Male,Technician,8,Y,16
+305,33,4,Medical,Female,Research Scientist,6,Y,7
+306,37,3,Other,Male,Research Director,1,Y,10
+307,38,3,Life Sciences,Male,Sales Executive,0,Y,17
+308,31,4,Medical,Male,Marketing Director,0,Y,6
+309,59,3,Life Sciences,Male,Research Scientist,3,Y,7
+311,37,4,Marketing,Male,Sales Representative,4,Y,13
+312,29,1,Medical,Female,Sales Executive,1,Y,11
+314,35,3,Marketing,Female,Sales Executive,1,Y,10
+315,29,1,Medical,Male,Research Scientist,1,Y,4
+316,52,3,Life Sciences,Female,Technician,7,Y,6
+319,42,2,Technical Degree,Male,Manager,1,Y,22
+321,59,2,Medical,Male,Human Resources,8,Y,7
+323,50,4,Medical,Female,Manager,3,Y,32
+325,33,3,Medical,Male,Technician,5,Y,8
+327,43,3,Marketing,Female,Manager,5,Y,22
+328,33,2,Life Sciences,Female,Technician,7,Y,13
+329,52,4,Life Sciences,Male,Manager,1,Y,33
+330,32,2,Life Sciences,Female,Sales Representative,2,Y,6
+331,32,3,Life Sciences,Male,Technician,0,Y,4
+332,39,4,Medical,Female,Technician,7,Y,7
+333,32,4,Marketing,Male,Sales Executive,0,Y,4
+334,41,2,Life Sciences,Male,Research Scientist,2,Y,17
+335,40,2,Technical Degree,Male,Research Scientist,1,Y,9
+336,45,3,Other,Male,Manager,0,Y,25
+337,31,4,Medical,Male,Research Director,9,Y,9
+338,33,4,Life Sciences,Female,Research Scientist,1,Y,2
+339,34,4,Life Sciences,Male,Marketing Director,6,Y,13
+340,37,2,Medical,Female,Research Scientist,2,Y,17
+341,45,4,Life Sciences,Male,Marketing Director,4,Y,9
+342,37,3,Medical,Male,Marketing Director,6,Y,17
+343,39,4,Technical Degree,Female,Brand Representative,0,Y,20
+346,29,3,Life Sciences,Male,Research Scientist,1,Y,6
+347,42,2,Life Sciences,Female,Research Scientist,3,Y,10
+349,29,2,Marketing,Male,Sales Executive,2,Y,10
+350,25,3,Life Sciences,Female,Marketing Director,0,Y,5
+351,42,3,Medical,Female,Technician,0,Y,10
+352,40,2,Medical,Male,Research Director,0,Y,22
+353,51,3,Life Sciences,Male,Research Scientist,1,Y,1
+355,31,2,Medical,Male,Technician,0,Y,6
+359,32,3,Life Sciences,Male,Technician,1,Y,5
+361,38,2,Life Sciences,Male,Sales Executive,3,Y,13
+362,32,1,Technical Degree,Male,Technician,4,Y,9
+363,46,3,Technical Degree,Female,Manager,3,Y,28
+364,28,4,Life Sciences,Male,Technician,2,Y,5
+366,29,3,Medical,Male,Sales Executive,2,Y,10
+367,31,3,Medical,Male,Brand Representative,0,Y,10
+369,25,2,Life Sciences,Male,Brand Representative,1,Y,6
+372,45,2,Medical,Male,Brand Representative,0,Y,21
+373,36,3,Life Sciences,Male,Technician,0,Y,16
+374,55,3,Medical,Male,Manager,0,Y,37
+376,47,4,Life Sciences,Male,Manager,1,Y,10
+377,28,3,Medical,Male,Research Scientist,1,Y,5
+378,37,4,Medical,Male,Sales Executive,4,Y,7
+379,21,2,Medical,Male,Research Scientist,1,Y,3
+380,37,4,Medical,Female,Research Director,2,Y,15
+381,35,3,Life Sciences,Female,Manager,7,Y,10
+382,38,2,Medical,Female,Sales Executive,1,Y,8
+384,26,3,Life Sciences,Female,Marketing Director,1,Y,6
+385,50,1,Life Sciences,Male,Research Director,3,Y,28
+386,53,4,Medical,Male,Research Director,3,Y,21
+387,42,1,Life Sciences,Male,Sales Executive,1,Y,20
+388,29,2,Life Sciences,Male,Sales Executive,1,Y,10
+389,55,2,Technical Degree,Male,Technician,3,Y,12
+390,26,2,Medical,Male,Brand Representative,1,Y,5
+391,37,3,Life Sciences,Female,Research Scientist,1,Y,17
+392,44,3,Life Sciences,Male,Technician,3,Y,19
+393,38,4,Life Sciences,Male,Brand Representative,9,Y,10
+394,26,4,Medical,Male,Technician,2,Y,5
+395,28,2,Life Sciences,Female,Research Scientist,1,Y,5
+396,49,4,Life Sciences,Female,Research Director,9,Y,22
+397,36,3,Technical Degree,Male,Research Scientist,4,Y,10
+399,31,3,Marketing,Female,Sales Representative,1,Y,2
+401,26,4,Marketing,Male,Sales Executive,1,Y,8
+403,37,3,Medical,Male,Research Scientist,1,Y,4
+404,42,3,Marketing,Female,Sales Executive,5,Y,23
+405,18,3,Life Sciences,Male,Technician,1,Y,0
+406,35,3,Marketing,Male,Sales Executive,0,Y,12
+407,36,4,Life Sciences,Male,Technician,4,Y,4
+408,51,3,Medical,Male,Marketing Director,5,Y,13
+410,41,4,Life Sciences,Male,Manager,1,Y,22
+411,18,3,Medical,Female,Sales Representative,1,Y,0
+412,28,2,Medical,Male,Brand Representative,0,Y,9
+416,31,3,Technical Degree,Male,Sales Executive,4,Y,10
+417,39,3,Medical,Male,Brand Representative,0,Y,19
+419,36,4,Life Sciences,Female,Technician,7,Y,11
+420,32,3,Life Sciences,Male,Sales Executive,1,Y,13
+421,38,2,Life Sciences,Female,Research Director,3,Y,19
+422,58,4,Life Sciences,Male,Brand Representative,2,Y,12
+423,31,4,Technical Degree,Male,Research Scientist,0,Y,6
+424,31,3,Human Resources,Male,Human Resources,3,Y,9
+425,45,3,Life Sciences,Male,Technician,1,Y,24
+426,31,4,Life Sciences,Male,Research Scientist,0,Y,3
+428,33,4,Life Sciences,Female,Manager,6,Y,12
+429,39,1,Medical,Male,Manager,1,Y,21
+430,43,4,Life Sciences,Female,Technician,0,Y,9
+431,49,2,Technical Degree,Female,Brand Representative,7,Y,25
+433,52,4,Medical,Male,Research Scientist,2,Y,11
+434,27,3,Life Sciences,Female,Research Scientist,1,Y,4
+436,32,2,Technical Degree,Female,Sales Executive,1,Y,13
+437,27,3,Life Sciences,Male,Sales Executive,1,Y,5
+438,31,3,Marketing,Male,Sales Executive,4,Y,13
+439,32,4,Medical,Female,Research Scientist,7,Y,10
+440,28,4,Medical,Male,Research Scientist,5,Y,5
+441,30,2,Medical,Female,Research Scientist,1,Y,11
+442,31,2,Life Sciences,Female,Marketing Director,1,Y,10
+444,39,2,Medical,Male,Manager,1,Y,21
+445,39,2,Medical,Female,Sales Executive,4,Y,12
+446,33,3,Marketing,Male,Sales Executive,3,Y,9
+447,47,5,Life Sciences,Male,Research Director,4,Y,21
+448,43,4,Life Sciences,Female,Technician,1,Y,9
+449,27,1,Marketing,Male,Sales Executive,0,Y,6
+450,54,4,Life Sciences,Female,Research Scientist,3,Y,20
+451,43,3,Life Sciences,Female,Brand Representative,8,Y,10
+452,45,4,Other,Male,Research Scientist,9,Y,12
+453,40,2,Medical,Male,Sales Executive,2,Y,6
+454,29,4,Other,Male,Technician,1,Y,7
+455,29,5,Other,Male,Technician,0,Y,4
+456,30,3,Marketing,Female,Sales Executive,1,Y,10
+458,27,4,Marketing,Female,Sales Executive,1,Y,8
+460,37,2,Medical,Male,Marketing Director,7,Y,8
+461,38,2,Life Sciences,Male,Research Director,0,Y,12
+462,31,4,Medical,Female,Marketing Director,1,Y,11
+463,29,1,Marketing,Female,Sales Executive,1,Y,7
+464,35,4,Technical Degree,Male,Marketing Director,0,Y,17
+465,23,1,Life Sciences,Male,Research Scientist,1,Y,4
+466,41,3,Medical,Male,Marketing Director,6,Y,8
+467,47,1,Medical,Male,Sales Representative,3,Y,5
+468,42,5,Life Sciences,Female,Research Director,2,Y,16
+469,29,3,Life Sciences,Male,Sales Executive,1,Y,4
+470,42,1,Technical Degree,Male,Human Resources,0,Y,4
+471,32,3,Medical,Female,Technician,1,Y,8
+473,48,1,Medical,Female,Manager,3,Y,15
+474,37,3,Medical,Male,Research Scientist,4,Y,13
+475,30,2,Technical Degree,Female,Sales Executive,7,Y,4
+476,26,3,Life Sciences,Male,Sales Executive,1,Y,8
+477,42,4,Other,Male,Brand Representative,3,Y,14
+478,21,1,Technical Degree,Female,Sales Representative,1,Y,3
+479,36,5,Medical,Female,Sales Executive,4,Y,7
+481,36,4,Medical,Male,Sales Executive,4,Y,16
+482,57,4,Medical,Male,Brand Representative,2,Y,15
+483,40,4,Life Sciences,Female,Technician,3,Y,10
+484,21,2,Medical,Male,Sales Representative,1,Y,3
+485,33,3,Marketing,Female,Sales Representative,1,Y,1
+486,37,3,Medical,Female,Technician,6,Y,17
+487,46,4,Medical,Female,Marketing Director,2,Y,7
+488,41,3,Marketing,Male,Sales Executive,1,Y,8
+491,50,3,Technical Degree,Male,Brand Representative,6,Y,20
+492,40,2,Marketing,Male,Sales Executive,2,Y,8
+493,31,4,Life Sciences,Male,Research Scientist,0,Y,3
+494,21,3,Life Sciences,Female,Sales Representative,1,Y,1
+495,29,3,Life Sciences,Male,Research Scientist,9,Y,6
+496,35,4,Life Sciences,Male,Brand Representative,9,Y,10
+497,27,2,Medical,Male,Technician,1,Y,5
+498,28,4,Life Sciences,Male,Sales Executive,1,Y,7
+499,49,3,Other,Male,Brand Representative,8,Y,26
+500,51,2,Life Sciences,Female,Sales Executive,4,Y,18
+501,36,3,Life Sciences,Female,Research Scientist,4,Y,6
+502,34,3,Marketing,Male,Sales Executive,8,Y,9
+505,55,3,Life Sciences,Female,Manager,2,Y,30
+507,24,4,Marketing,Female,Sales Executive,1,Y,5
+508,30,1,Technical Degree,Male,Sales Representative,1,Y,1
+510,26,1,Technical Degree,Male,Research Scientist,0,Y,7
+511,22,3,Medical,Female,Research Scientist,1,Y,2
+513,36,2,Medical,Male,Sales Executive,1,Y,10
+514,30,3,Technical Degree,Male,Research Scientist,9,Y,3
+515,37,3,Life Sciences,Female,Technician,1,Y,18
+516,40,2,Marketing,Female,Sales Executive,7,Y,8
+517,42,4,Life Sciences,Female,Technician,3,Y,8
+518,37,4,Life Sciences,Male,Marketing Director,2,Y,18
+520,43,3,Life Sciences,Male,Research Director,1,Y,25
+521,40,3,Medical,Female,Technician,6,Y,20
+522,54,2,Medical,Male,Research Director,4,Y,24
+523,34,4,Marketing,Female,Sales Executive,9,Y,6
+524,31,2,Medical,Female,Marketing Director,1,Y,13
+525,43,3,Medical,Male,Technician,7,Y,8
+526,43,4,Other,Female,Brand Representative,4,Y,8
+527,25,2,Life Sciences,Female,Sales Executive,1,Y,5
+529,37,5,Medical,Female,Research Scientist,3,Y,15
+530,31,2,Life Sciences,Male,Technician,1,Y,4
+531,39,1,Life Sciences,Male,Manager,1,Y,21
+532,56,3,Life Sciences,Female,Sales Executive,9,Y,36
+533,30,3,Technical Degree,Female,Sales Executive,0,Y,6
+534,41,3,Marketing,Male,Sales Executive,1,Y,10
+536,28,2,Medical,Male,Technician,1,Y,10
+538,25,3,Medical,Male,Technician,5,Y,6
+543,52,3,Medical,Male,Marketing Director,2,Y,28
+544,45,2,Life Sciences,Male,Research Scientist,3,Y,8
+546,52,2,Life Sciences,Female,Manager,2,Y,31
+547,42,2,Life Sciences,Female,Research Scientist,2,Y,19
+548,30,3,Life Sciences,Female,Marketing Director,2,Y,11
+549,60,3,Life Sciences,Female,Manager,5,Y,33
+550,46,3,Medical,Female,Marketing Director,2,Y,19
+551,42,4,Technical Degree,Female,Brand Representative,0,Y,7
+554,24,1,Technical Degree,Female,Sales Representative,1,Y,6
+555,34,2,Marketing,Female,Sales Representative,0,Y,3
+556,38,2,Life Sciences,Male,Technician,1,Y,1
+558,40,4,Life Sciences,Female,Manager,0,Y,21
+560,26,3,Life Sciences,Female,Research Scientist,1,Y,3
+562,30,3,Life Sciences,Male,Technician,4,Y,9
+564,29,4,Medical,Male,Research Director,1,Y,10
+565,29,5,Technical Degree,Female,Research Scientist,5,Y,6
+566,19,2,Technical Degree,Male,Human Resources,1,Y,1
+567,30,4,Other,Female,Sales Executive,0,Y,10
+568,57,3,Marketing,Male,Manager,3,Y,32
+569,50,4,Life Sciences,Male,Manager,0,Y,28
+571,30,3,Medical,Female,Technician,0,Y,12
+573,60,3,Marketing,Female,Sales Executive,4,Y,22
+574,47,2,Medical,Female,Marketing Director,5,Y,20
+575,46,3,Life Sciences,Male,Research Director,6,Y,26
+577,35,3,Life Sciences,Male,Technician,0,Y,6
+578,54,4,Life Sciences,Female,Technician,7,Y,19
+579,34,4,Life Sciences,Male,Research Scientist,3,Y,14
+580,46,3,Marketing,Female,Sales Executive,2,Y,15
+581,31,1,Life Sciences,Male,Marketing Director,1,Y,13
+582,33,1,Medical,Male,Manager,7,Y,15
+584,33,1,Medical,Male,Technician,7,Y,8
+585,30,1,Marketing,Male,Sales Representative,0,Y,4
+586,35,3,Life Sciences,Male,Brand Representative,4,Y,10
+587,31,3,Life Sciences,Male,Brand Representative,3,Y,12
+590,34,3,Human Resources,Female,Human Resources,9,Y,11
+591,42,2,Other,Male,Technician,4,Y,8
+592,36,4,Medical,Male,Sales Executive,1,Y,10
+593,22,1,Technical Degree,Male,Technician,5,Y,4
+595,48,5,Marketing,Female,Sales Executive,2,Y,14
+597,55,5,Life Sciences,Female,Manager,3,Y,37
+599,41,2,Life Sciences,Male,Sales Executive,7,Y,16
+600,35,3,Marketing,Male,Sales Executive,9,Y,15
+601,40,3,Life Sciences,Female,Marketing Director,7,Y,22
+602,39,1,Life Sciences,Female,Technician,1,Y,8
+604,31,1,Life Sciences,Male,Sales Executive,4,Y,10
+605,42,3,Medical,Male,Marketing Director,1,Y,10
+606,45,3,Other,Male,Sales Executive,0,Y,9
+608,26,4,Life Sciences,Female,Human Resources,0,Y,8
+611,29,3,Technical Degree,Male,Marketing Director,4,Y,8
+612,33,5,Medical,Female,Research Director,4,Y,10
+613,31,3,Life Sciences,Male,Manager,9,Y,10
+614,18,3,Marketing,Male,Sales Representative,1,Y,0
+615,40,3,Other,Male,Sales Executive,3,Y,20
+616,41,4,Other,Female,Brand Representative,2,Y,10
+618,26,2,Medical,Male,Sales Executive,5,Y,8
+620,35,3,Medical,Female,Sales Executive,1,Y,5
+621,34,4,Life Sciences,Male,Sales Executive,1,Y,10
+622,26,3,Technical Degree,Male,Technician,1,Y,1
+623,37,3,Technical Degree,Female,Marketing Director,4,Y,12
+624,46,1,Medical,Female,Brand Representative,5,Y,28
+625,41,5,Life Sciences,Female,Manager,7,Y,22
+626,37,4,Medical,Male,Sales Executive,1,Y,9
+630,52,2,Technical Degree,Male,Research Scientist,3,Y,18
+631,32,4,Other,Male,Sales Executive,8,Y,6
+632,24,3,Medical,Male,Sales Representative,0,Y,3
+634,38,3,Medical,Female,Brand Representative,3,Y,18
+635,37,4,Life Sciences,Female,Marketing Director,6,Y,8
+638,49,4,Life Sciences,Male,Research Director,1,Y,31
+639,24,3,Medical,Male,Research Scientist,1,Y,6
+641,26,2,Marketing,Male,Sales Executive,1,Y,6
+643,24,2,Other,Male,Technician,1,Y,1
+644,50,3,Medical,Male,Manager,1,Y,32
+645,25,1,Medical,Male,Sales Representative,1,Y,7
+647,24,3,Life Sciences,Female,Technician,1,Y,6
+648,30,4,Life Sciences,Male,Sales Representative,1,Y,1
+649,34,2,Life Sciences,Male,Research Scientist,1,Y,6
+650,31,4,Medical,Male,Sales Executive,2,Y,9
+652,35,2,Other,Male,Technician,4,Y,9
+653,31,4,Medical,Male,Sales Executive,4,Y,13
+655,27,4,Medical,Female,Research Scientist,0,Y,6
+656,37,3,Marketing,Male,Sales Executive,4,Y,17
+657,20,3,Life Sciences,Female,Research Scientist,1,Y,1
+659,42,4,Life Sciences,Female,Brand Representative,1,Y,10
+661,43,4,Other,Male,Research Director,4,Y,21
+662,38,1,Life Sciences,Female,Research Scientist,3,Y,8
+663,43,5,Medical,Male,Technician,3,Y,10
+664,48,4,Life Sciences,Female,Manager,7,Y,21
+665,44,4,Life Sciences,Female,Human Resources,4,Y,10
+666,34,3,Technical Degree,Female,Sales Representative,1,Y,8
+667,27,1,Marketing,Male,Sales Representative,0,Y,5
+669,21,1,Technical Degree,Male,Sales Representative,1,Y,3
+671,44,4,Other,Male,Manager,4,Y,26
+675,22,1,Medical,Male,Research Scientist,0,Y,3
+677,33,4,Marketing,Male,Sales Executive,0,Y,6
+679,32,4,Life Sciences,Female,Research Scientist,1,Y,6
+680,30,3,Medical,Female,Research Scientist,1,Y,1
+682,53,1,Medical,Female,Sales Executive,7,Y,18
+683,34,5,Life Sciences,Male,Research Scientist,1,Y,10
+684,45,4,Life Sciences,Female,Sales Executive,2,Y,5
+686,26,3,Life Sciences,Female,Technician,1,Y,3
+689,37,3,Other,Male,Marketing Director,1,Y,10
+690,29,2,Medical,Female,Sales Executive,1,Y,6
+691,35,4,Life Sciences,Male,Research Scientist,1,Y,17
+692,33,3,Life Sciences,Male,Brand Representative,3,Y,15
+698,54,4,Medical,Male,Human Resources,2,Y,16
+699,36,2,Medical,Male,Marketing Director,2,Y,13
+700,27,4,Medical,Male,Research Scientist,0,Y,5
+701,20,1,Medical,Male,Research Scientist,1,Y,1
+702,33,3,Life Sciences,Male,Research Scientist,1,Y,10
+704,35,3,Life Sciences,Male,Technician,1,Y,1
+705,23,3,Medical,Male,Research Scientist,2,Y,5
+707,25,3,Life Sciences,Male,Sales Executive,0,Y,4
+709,38,4,Marketing,Female,Sales Executive,0,Y,8
+710,29,4,Life Sciences,Male,Research Scientist,1,Y,10
+712,48,1,Marketing,Male,Sales Executive,3,Y,12
+714,27,1,Medical,Female,Sales Executive,1,Y,6
+715,37,2,Life Sciences,Male,Research Scientist,3,Y,4
+716,50,1,Medical,Male,Technician,1,Y,20
+717,34,3,Medical,Female,Brand Representative,1,Y,9
+720,24,2,Life Sciences,Female,Sales Executive,9,Y,4
+721,39,4,Technical Degree,Female,Brand Representative,1,Y,20
+722,32,3,Marketing,Male,Sales Executive,1,Y,10
+723,50,2,Technical Degree,Male,Sales Executive,3,Y,18
+724,38,4,Life Sciences,Female,Brand Representative,0,Y,10
+725,27,2,Life Sciences,Female,Marketing Director,1,Y,9
+727,32,2,Life Sciences,Female,Research Director,3,Y,10
+728,47,4,Marketing,Male,Sales Executive,2,Y,20
+729,40,4,Life Sciences,Male,Sales Executive,5,Y,20
+730,53,3,Life Sciences,Male,Research Director,3,Y,32
+731,41,4,Human Resources,Male,Manager,3,Y,23
+732,60,4,Marketing,Male,Sales Executive,8,Y,10
+733,27,2,Life Sciences,Male,Marketing Director,1,Y,9
+734,41,3,Human Resources,Male,Manager,1,Y,22
+738,50,4,Marketing,Male,Sales Representative,7,Y,4
+741,28,2,Life Sciences,Female,Research Scientist,7,Y,10
+742,36,3,Life Sciences,Female,Research Director,9,Y,10
+743,38,3,Life Sciences,Female,Marketing Director,4,Y,10
+744,44,3,Medical,Male,Technician,2,Y,9
+746,47,3,Medical,Female,Sales Executive,9,Y,28
+747,30,5,Marketing,Male,Sales Executive,7,Y,10
+749,29,3,Life Sciences,Male,Sales Representative,1,Y,1
+752,42,3,Medical,Male,Research Scientist,6,Y,7
+754,43,3,Life Sciences,Male,Sales Executive,3,Y,7
+757,34,2,Medical,Female,Brand Representative,3,Y,10
+758,23,1,Medical,Male,Technician,1,Y,5
+760,39,3,Human Resources,Female,Human Resources,9,Y,12
+762,56,3,Medical,Male,Brand Representative,7,Y,30
+763,40,1,Medical,Female,Research Scientist,0,Y,5
+764,27,3,Medical,Female,Brand Representative,8,Y,9
+766,29,3,Marketing,Male,Sales Representative,1,Y,2
+769,53,3,Life Sciences,Male,Technician,2,Y,19
+771,35,4,Life Sciences,Female,Brand Representative,2,Y,16
+772,32,4,Life Sciences,Male,Technician,1,Y,10
+773,38,5,Medical,Male,Research Scientist,6,Y,6
+775,34,5,Life Sciences,Female,Marketing Director,3,Y,7
+776,52,4,Marketing,Male,Manager,1,Y,34
+780,33,4,Other,Male,Research Scientist,1,Y,10
+781,25,1,Medical,Female,Sales Executive,1,Y,6
+783,45,2,Technical Degree,Male,Sales Representative,0,Y,9
+784,23,1,Medical,Male,Research Scientist,1,Y,2
+785,47,2,Life Sciences,Female,Sales Executive,4,Y,8
+786,34,3,Other,Male,Sales Executive,1,Y,6
+787,55,3,Medical,Male,Manager,5,Y,24
+789,36,4,Life Sciences,Male,Sales Executive,1,Y,10
+791,52,4,Medical,Male,Research Scientist,0,Y,5
+792,26,2,Life Sciences,Female,Technician,3,Y,5
+793,29,3,Medical,Female,Brand Representative,4,Y,11
+796,26,3,Technical Degree,Male,Sales Executive,6,Y,6
+797,34,4,Life Sciences,Female,Research Scientist,2,Y,10
+799,54,4,Medical,Female,Marketing Director,9,Y,9
+800,27,1,Marketing,Male,Sales Executive,0,Y,5
+802,37,1,Life Sciences,Female,Research Scientist,0,Y,6
+803,38,4,Life Sciences,Female,Marketing Director,6,Y,17
+804,34,4,Medical,Female,Research Scientist,1,Y,6
+805,35,4,Life Sciences,Female,Sales Representative,1,Y,3
+806,30,3,Life Sciences,Male,Technician,3,Y,7
+807,40,2,Medical,Female,Brand Representative,1,Y,8
+808,34,2,Life Sciences,Female,Sales Executive,5,Y,6
+809,42,3,Life Sciences,Male,Manager,1,Y,24
+811,23,3,Life Sciences,Male,Technician,1,Y,1
+812,24,3,Life Sciences,Male,Technician,1,Y,1
+813,52,4,Life Sciences,Female,Technician,8,Y,9
+815,50,3,Medical,Male,Research Director,5,Y,30
+816,29,2,Life Sciences,Female,Technician,1,Y,1
+817,33,3,Medical,Male,Research Director,0,Y,14
+819,33,3,Marketing,Female,Sales Executive,5,Y,6
+820,47,2,Other,Female,Manager,1,Y,26
+823,36,3,Other,Female,Marketing Director,0,Y,10
+824,29,2,Life Sciences,Male,Research Scientist,1,Y,10
+825,58,4,Life Sciences,Male,Research Director,7,Y,40
+826,35,4,Life Sciences,Female,Research Scientist,3,Y,7
+827,42,2,Life Sciences,Female,Marketing Director,9,Y,8
+828,28,4,Medical,Male,Research Scientist,6,Y,5
+829,36,3,Human Resources,Male,Human Resources,4,Y,8
+830,32,3,Life Sciences,Female,Marketing Director,1,Y,14
+832,40,4,Medical,Male,Technician,6,Y,10
+833,30,3,Medical,Female,Marketing Director,5,Y,12
+834,45,3,Life Sciences,Female,Research Scientist,1,Y,1
+836,42,3,Life Sciences,Male,Marketing Director,1,Y,10
+837,38,3,Life Sciences,Male,Brand Representative,2,Y,13
+838,34,4,Life Sciences,Female,Research Scientist,1,Y,6
+840,49,3,Marketing,Female,Sales Executive,1,Y,9
+842,55,1,Medical,Male,Sales Executive,4,Y,12
+843,43,2,Life Sciences,Male,Research Director,6,Y,22
+844,27,1,Technical Degree,Male,Research Director,1,Y,9
+845,35,3,Other,Male,Marketing Director,3,Y,17
+846,28,4,Marketing,Female,Sales Executive,1,Y,8
+847,34,2,Human Resources,Male,Human Resources,0,Y,4
+848,26,2,Medical,Female,Research Scientist,1,Y,8
+850,27,3,Medical,Male,Research Scientist,1,Y,0
+851,51,4,Marketing,Female,Manager,2,Y,29
+852,44,3,Medical,Male,Brand Representative,9,Y,10
+854,25,1,Medical,Male,Research Scientist,7,Y,6
+855,33,3,Medical,Male,Sales Executive,1,Y,9
+856,35,1,Medical,Female,Research Scientist,1,Y,6
+857,36,2,Life Sciences,Male,Sales Executive,1,Y,18
+859,32,4,Life Sciences,Male,Sales Executive,2,Y,8
+861,30,4,Life Sciences,Male,Research Scientist,9,Y,10
+862,53,2,Marketing,Female,Sales Executive,7,Y,35
+864,45,3,Marketing,Male,Sales Executive,4,Y,18
+865,32,2,Medical,Female,Research Scientist,5,Y,9
+867,52,4,Medical,Female,Marketing Director,3,Y,31
+868,37,4,Marketing,Male,Sales Executive,4,Y,9
+869,28,2,Medical,Male,Human Resources,1,Y,6
+872,22,2,Life Sciences,Male,Marketing Director,6,Y,4
+874,44,4,Life Sciences,Male,Technician,2,Y,10
+875,42,1,Medical,Male,Research Scientist,5,Y,8
+878,36,3,Life Sciences,Male,Human Resources,0,Y,6
+879,25,1,Other,Male,Sales Executive,1,Y,5
+880,35,3,Life Sciences,Female,Marketing Director,1,Y,17
+881,35,4,Life Sciences,Female,Research Scientist,1,Y,10
+882,32,3,Life Sciences,Male,Technician,0,Y,4
+885,25,1,Marketing,Male,Sales Executive,1,Y,5
+887,49,3,Technical Degree,Female,Research Scientist,2,Y,7
+888,24,1,Life Sciences,Male,Technician,0,Y,6
+889,32,2,Life Sciences,Male,Sales Executive,1,Y,10
+893,38,3,Marketing,Male,Sales Representative,0,Y,3
+894,42,3,Life Sciences,Female,Technician,2,Y,17
+895,31,4,Life Sciences,Male,Research Scientist,3,Y,8
+896,29,3,Medical,Female,Sales Representative,6,Y,5
+897,53,3,Marketing,Male,Sales Executive,5,Y,28
+899,35,3,Technical Degree,Male,Marketing Director,3,Y,16
+900,37,2,Medical,Female,Sales Representative,5,Y,10
+901,53,4,Life Sciences,Female,Research Director,6,Y,33
+902,43,3,Life Sciences,Female,Brand Representative,4,Y,12
+903,47,2,Marketing,Female,Sales Executive,0,Y,8
+904,37,2,Medical,Male,Sales Executive,1,Y,10
+905,50,4,Life Sciences,Male,Manager,1,Y,31
+909,39,3,Life Sciences,Female,Human Resources,8,Y,13
+910,33,2,Human Resources,Male,Human Resources,3,Y,7
+911,32,4,Life Sciences,Male,Technician,1,Y,1
+912,29,1,Medical,Female,Technician,6,Y,8
+913,44,2,Life Sciences,Male,Research Scientist,1,Y,8
+916,28,4,Medical,Male,Sales Executive,1,Y,4
+918,58,1,Life Sciences,Male,Technician,9,Y,3
+920,43,3,Life Sciences,Female,Marketing Director,4,Y,4
+922,20,3,Medical,Female,Sales Representative,1,Y,2
+923,21,1,Other,Female,Research Scientist,1,Y,1
+924,36,1,Life Sciences,Male,Brand Representative,0,Y,17
+925,47,4,Life Sciences,Female,Sales Representative,1,Y,3
+926,22,1,Life Sciences,Female,Marketing Director,0,Y,4
+927,41,4,Life Sciences,Female,Technician,4,Y,10
+930,28,3,Medical,Female,Research Scientist,5,Y,6
+932,39,3,Medical,Male,Technician,7,Y,8
+933,27,3,Life Sciences,Female,Research Scientist,1,Y,1
+934,34,3,Life Sciences,Male,Technician,1,Y,1
+936,42,2,Medical,Female,Sales Executive,7,Y,10
+939,33,4,Other,Male,Research Scientist,3,Y,6
+940,58,3,Technical Degree,Female,Brand Representative,2,Y,24
+941,31,4,Life Sciences,Male,Sales Representative,3,Y,13
+942,35,1,Life Sciences,Female,Brand Representative,1,Y,10
+944,49,2,Other,Female,Technician,4,Y,29
+945,48,4,Medical,Male,Research Scientist,4,Y,13
+947,31,2,Marketing,Female,Sales Executive,1,Y,9
+949,36,4,Other,Male,Research Scientist,2,Y,8
+950,38,3,Technical Degree,Female,Research Director,1,Y,15
+951,32,3,Life Sciences,Female,Technician,6,Y,5
+952,25,2,Marketing,Male,Sales Representative,1,Y,1
+954,40,4,Marketing,Male,Sales Executive,2,Y,11
+956,26,3,Medical,Male,Sales Executive,1,Y,7
+957,41,3,Medical,Male,Technician,2,Y,20
+958,36,4,Medical,Male,Technician,4,Y,16
+959,19,3,Other,Male,Sales Representative,1,Y,1
+960,20,3,Technical Degree,Male,Technician,1,Y,1
+961,31,3,Medical,Female,Brand Representative,0,Y,10
+964,40,4,Medical,Male,Research Scientist,8,Y,3
+966,32,4,Medical,Female,Marketing Director,1,Y,8
+967,36,1,Life Sciences,Male,Sales Executive,1,Y,16
+969,33,3,Life Sciences,Female,Brand Representative,0,Y,6
+970,37,4,Life Sciences,Male,Sales Executive,5,Y,17
+972,45,2,Life Sciences,Male,Technician,1,Y,9
+974,29,3,Technical Degree,Female,Sales Representative,1,Y,3
+975,35,3,Medical,Female,Sales Executive,1,Y,5
+976,52,2,Life Sciences,Male,Manager,2,Y,26
+977,58,3,Technical Degree,Male,Research Scientist,4,Y,7
+981,53,2,Medical,Male,Manager,6,Y,22
+982,30,2,Other,Male,Sales Executive,5,Y,10
+983,38,3,Technical Degree,Female,Sales Executive,1,Y,6
+984,35,4,Life Sciences,Male,Sales Executive,6,Y,12
+985,39,5,Life Sciences,Male,Sales Executive,0,Y,9
+986,40,3,Life Sciences,Female,Sales Executive,4,Y,22
+987,47,4,Medical,Male,Marketing Director,1,Y,20
+990,36,4,Technical Degree,Male,Sales Executive,4,Y,12
+991,31,2,Medical,Male,Research Scientist,0,Y,4
+992,33,3,Life Sciences,Male,Manager,1,Y,10
+994,29,3,Life Sciences,Female,Research Scientist,6,Y,3
+995,33,1,Life Sciences,Female,Research Scientist,3,Y,5
+996,45,4,Medical,Female,Technician,3,Y,8
+997,50,2,Medical,Male,Research Director,9,Y,32
+998,33,4,Other,Female,Brand Representative,1,Y,6
+999,41,3,Medical,Male,Research Director,2,Y,21
+1001,27,4,Technical Degree,Female,Technician,9,Y,4
+1002,45,2,Life Sciences,Male,Technician,1,Y,9
+1003,47,2,Life Sciences,Female,Sales Executive,1,Y,9
+1004,30,3,Life Sciences,Female,Research Scientist,4,Y,7
+1005,50,3,Life Sciences,Male,Marketing Director,3,Y,22
+1006,38,1,Medical,Male,Research Scientist,0,Y,3
+1007,46,2,Medical,Male,Marketing Director,6,Y,13
+1009,24,1,Medical,Female,Marketing Director,1,Y,5
+1010,35,4,Other,Male,Technician,1,Y,5
+1011,31,1,Life Sciences,Female,Marketing Director,1,Y,4
+1012,18,2,Life Sciences,Male,Research Scientist,1,Y,0
+1013,54,3,Technical Degree,Female,Marketing Director,8,Y,22
+1014,35,4,Medical,Female,Brand Representative,1,Y,16
+1015,30,2,Life Sciences,Female,Research Director,0,Y,9
+1016,20,3,Medical,Female,Research Scientist,1,Y,1
+1017,30,3,Medical,Female,Technician,0,Y,4
+1018,26,2,Medical,Male,Marketing Director,1,Y,8
+1019,22,1,Life Sciences,Male,Technician,1,Y,4
+1022,48,3,Life Sciences,Male,Brand Representative,2,Y,19
+1024,48,4,Life Sciences,Male,Brand Representative,7,Y,27
+1025,41,2,Medical,Female,Marketing Director,6,Y,8
+1026,39,1,Life Sciences,Female,Marketing Director,1,Y,21
+1027,27,4,Life Sciences,Female,Marketing Director,0,Y,4
+1028,35,3,Other,Male,Technician,1,Y,3
+1029,42,2,Marketing,Male,Manager,6,Y,21
+1030,50,3,Life Sciences,Male,Technician,4,Y,8
+1032,59,3,Life Sciences,Female,Marketing Director,3,Y,30
+1033,37,2,Medical,Female,Brand Representative,5,Y,15
+1034,55,4,Medical,Male,Brand Representative,3,Y,17
+1035,41,1,Life Sciences,Female,Research Director,1,Y,21
+1036,38,4,Life Sciences,Male,Sales Executive,8,Y,19
+1037,26,2,Medical,Male,Sales Executive,8,Y,7
+1038,52,1,Marketing,Female,Manager,1,Y,33
+1039,44,3,Medical,Female,Sales Executive,3,Y,23
+1040,50,3,Life Sciences,Female,Sales Executive,0,Y,19
+1042,36,4,Life Sciences,Female,Technician,1,Y,18
+1043,39,3,Medical,Female,Marketing Director,1,Y,21
+1044,33,1,Life Sciences,Female,Sales Representative,0,Y,3
+1045,45,2,Life Sciences,Female,Manager,3,Y,26
+1046,32,4,Medical,Female,Technician,9,Y,10
+1047,34,4,Marketing,Male,Sales Executive,0,Y,16
+1048,59,2,Technical Degree,Male,Manager,3,Y,14
+1049,45,4,Medical,Male,Human Resources,1,Y,6
+1050,53,3,Marketing,Female,Sales Executive,2,Y,30
+1052,36,3,Other,Male,Technician,7,Y,9
+1053,26,3,Life Sciences,Male,Research Scientist,6,Y,6
+1055,34,4,Life Sciences,Female,Sales Representative,1,Y,1
+1056,28,1,Medical,Male,Sales Representative,1,Y,1
+1060,38,4,Other,Male,Research Scientist,3,Y,8
+1061,50,4,Medical,Male,Research Director,2,Y,29
+1062,37,3,Other,Female,Brand Representative,3,Y,8
+1066,40,3,Marketing,Male,Sales Executive,1,Y,8
+1068,26,1,Medical,Female,Research Scientist,1,Y,5
+1069,46,4,Medical,Male,Research Director,9,Y,23
+1070,54,4,Life Sciences,Female,Sales Executive,6,Y,13
+1071,56,3,Medical,Female,Research Scientist,2,Y,18
+1073,36,5,Medical,Female,Marketing Director,0,Y,15
+1074,55,1,Medical,Male,Manager,7,Y,31
+1076,43,3,Medical,Male,Sales Executive,5,Y,18
+1077,20,3,Marketing,Female,Sales Representative,1,Y,2
+1079,21,3,Life Sciences,Female,Technician,1,Y,1
+1080,46,4,Life Sciences,Female,Research Scientist,8,Y,19
+1081,51,4,Life Sciences,Male,Research Scientist,9,Y,18
+1082,28,2,Technical Degree,Male,Brand Representative,1,Y,10
+1083,26,2,Medical,Male,Technician,1,Y,6
+1084,30,3,Other,Male,Marketing Director,0,Y,7
+1085,41,2,Technical Degree,Female,Research Scientist,1,Y,10
+1088,38,1,Life Sciences,Female,Brand Representative,0,Y,20
+1092,40,4,Technical Degree,Male,Brand Representative,4,Y,14
+1094,27,5,Life Sciences,Male,Technician,1,Y,3
+1096,55,1,Life Sciences,Male,Marketing Director,3,Y,23
+1097,28,3,Other,Female,Research Scientist,3,Y,10
+1098,44,2,Medical,Male,Human Resources,9,Y,24
+1099,33,3,Life Sciences,Male,Brand Representative,4,Y,9
+1100,35,3,Technical Degree,Male,Sales Executive,0,Y,9
+1101,33,4,Medical,Female,Research Scientist,1,Y,14
+1102,28,2,Life Sciences,Male,Technician,1,Y,4
+1103,34,1,Life Sciences,Male,Brand Representative,0,Y,7
+1105,37,4,Life Sciences,Female,Sales Executive,2,Y,8
+1106,25,1,Technical Degree,Male,Technician,1,Y,7
+1107,26,3,Medical,Male,Technician,1,Y,1
+1108,33,3,Medical,Male,Research Scientist,4,Y,5
+1109,42,2,Medical,Male,Manager,0,Y,23
+1111,28,3,Medical,Male,Technician,1,Y,1
+1113,50,4,Other,Male,Sales Executive,3,Y,5
+1114,33,3,Life Sciences,Female,Sales Executive,0,Y,4
+1115,34,4,Life Sciences,Male,Research Scientist,3,Y,6
+1116,48,4,Medical,Male,Manager,2,Y,27
+1117,45,4,Life Sciences,Female,Sales Executive,1,Y,15
+1118,52,4,Life Sciences,Male,Brand Representative,7,Y,18
+1119,38,4,Marketing,Male,Sales Executive,0,Y,9
+1120,29,4,Life Sciences,Female,Research Scientist,4,Y,11
+1121,28,3,Medical,Female,Marketing Director,0,Y,10
+1124,46,1,Marketing,Male,Manager,3,Y,23
+1125,38,2,Marketing,Male,Sales Executive,7,Y,10
+1126,43,3,Life Sciences,Female,Marketing Director,8,Y,18
+1127,39,3,Life Sciences,Male,Brand Representative,7,Y,21
+1128,40,3,Medical,Male,Research Director,1,Y,21
+1131,21,1,Technical Degree,Female,Research Scientist,1,Y,2
+1132,39,3,Life Sciences,Male,Technician,9,Y,9
+1133,36,4,Life Sciences,Male,Marketing Director,2,Y,18
+1135,31,3,Life Sciences,Male,Sales Representative,0,Y,3
+1136,28,1,Life Sciences,Male,Research Scientist,0,Y,6
+1137,35,2,Marketing,Male,Sales Executive,1,Y,5
+1138,49,4,Technical Degree,Male,Sales Executive,6,Y,22
+1140,34,2,Life Sciences,Male,Marketing Director,2,Y,5
+1143,29,3,Life Sciences,Female,Research Scientist,0,Y,8
+1148,42,3,Medical,Male,Technician,4,Y,16
+1150,29,1,Medical,Male,Marketing Director,1,Y,10
+1152,38,3,Human Resources,Male,Human Resources,1,Y,7
+1154,28,3,Life Sciences,Male,Research Scientist,1,Y,3
+1156,18,1,Medical,Male,Technician,1,Y,0
+1157,33,4,Marketing,Female,Sales Executive,0,Y,6
+1158,41,4,Life Sciences,Male,Technician,3,Y,6
+1160,31,3,Medical,Male,Technician,1,Y,2
+1161,37,2,Medical,Female,Brand Representative,7,Y,9
+1162,27,3,Life Sciences,Male,Research Scientist,1,Y,4
+1163,34,1,Life Sciences,Female,Sales Executive,1,Y,6
+1164,35,4,Technical Degree,Male,Human Resources,1,Y,6
+1165,29,1,Life Sciences,Female,Sales Executive,1,Y,11
+1166,40,4,Medical,Female,Research Director,9,Y,20
+1167,42,3,Life Sciences,Male,Sales Executive,0,Y,22
+1171,42,4,Marketing,Male,Sales Executive,7,Y,9
+1172,35,4,Medical,Male,Technician,6,Y,10
+1173,24,3,Medical,Male,Technician,8,Y,6
+1175,28,1,Life Sciences,Female,Technician,1,Y,1
+1177,26,4,Medical,Male,Technician,1,Y,8
+1179,30,3,Marketing,Male,Sales Executive,1,Y,10
+1180,40,2,Medical,Female,Research Scientist,3,Y,16
+1182,35,3,Life Sciences,Male,Marketing Director,2,Y,15
+1184,34,3,Medical,Male,Brand Representative,0,Y,14
+1185,35,4,Other,Male,Technician,1,Y,2
+1188,43,3,Marketing,Female,Sales Executive,8,Y,7
+1190,32,1,Life Sciences,Female,Sales Representative,1,Y,1
+1191,56,4,Technical Degree,Female,Manager,4,Y,28
+1192,29,1,Medical,Female,Technician,1,Y,10
+1193,19,2,Life Sciences,Male,Research Scientist,1,Y,1
+1195,45,3,Medical,Female,Research Scientist,4,Y,7
+1196,37,3,Life Sciences,Female,Marketing Director,1,Y,14
+1198,20,3,Life Sciences,Male,Technician,1,Y,2
+1200,44,4,Life Sciences,Male,Research Scientist,1,Y,6
+1201,53,2,Medical,Female,Manager,3,Y,26
+1202,29,1,Life Sciences,Female,Research Scientist,0,Y,6
+1203,22,4,Life Sciences,Male,Research Scientist,0,Y,1
+1204,46,3,Marketing,Female,Manager,8,Y,28
+1206,44,3,Life Sciences,Male,Research Scientist,2,Y,6
+1207,33,3,Human Resources,Male,Human Resources,1,Y,5
+1210,41,2,Life Sciences,Male,Research Scientist,6,Y,5
+1211,30,4,Life Sciences,Male,Sales Executive,8,Y,8
+1212,40,4,Medical,Male,Sales Executive,5,Y,5
+1215,50,3,Medical,Female,Manager,2,Y,32
+1216,28,4,Medical,Male,Technician,1,Y,6
+1217,46,2,Life Sciences,Male,Research Director,5,Y,25
+1218,35,4,Life Sciences,Male,Sales Executive,3,Y,15
+1219,24,2,Life Sciences,Female,Technician,1,Y,1
+1220,33,3,Medical,Female,Sales Executive,1,Y,10
+1221,36,4,Life Sciences,Male,Technician,1,Y,7
+1224,30,4,Life Sciences,Male,Technician,1,Y,10
+1225,44,4,Other,Male,Research Scientist,1,Y,20
+1226,20,3,Marketing,Male,Sales Representative,1,Y,2
+1228,46,4,Technical Degree,Male,Marketing Director,2,Y,12
+1231,42,5,Medical,Male,Human Resources,7,Y,10
+1233,60,4,Marketing,Male,Sales Executive,0,Y,12
+1234,32,3,Other,Female,Technician,1,Y,2
+1235,32,2,Life Sciences,Female,Research Scientist,4,Y,10
+1237,36,3,Technical Degree,Female,Marketing Director,2,Y,17
+1238,33,3,Medical,Male,Research Scientist,0,Y,15
+1239,40,3,Technical Degree,Female,Sales Executive,7,Y,7
+1240,25,4,Life Sciences,Male,Sales Executive,0,Y,5
+1241,30,3,Medical,Male,Research Scientist,0,Y,12
+1242,42,5,Medical,Female,Research Director,3,Y,20
+1243,35,2,Marketing,Female,Sales Executive,4,Y,16
+1244,27,3,Life Sciences,Male,Research Scientist,1,Y,9
+1245,54,4,Life Sciences,Female,Marketing Director,7,Y,33
+1246,44,1,Life Sciences,Female,Research Scientist,1,Y,10
+1248,19,3,Medical,Female,Research Scientist,1,Y,1
+1249,29,3,Life Sciences,Female,Research Scientist,1,Y,3
+1250,54,3,Life Sciences,Male,Research Director,3,Y,36
+1251,31,2,Medical,Male,Brand Representative,1,Y,6
+1252,31,3,Medical,Female,Brand Representative,1,Y,10
+1254,59,3,Life Sciences,Female,Sales Executive,5,Y,13
+1255,43,3,Life Sciences,Male,Research Director,3,Y,25
+1256,49,2,Medical,Male,Manager,2,Y,23
+1257,36,3,Technical Degree,Male,Research Scientist,1,Y,12
+1258,48,2,Technical Degree,Male,Technician,5,Y,7
+1259,27,2,Life Sciences,Male,Research Scientist,1,Y,5
+1260,29,3,Life Sciences,Male,Brand Representative,1,Y,6
+1263,48,3,Life Sciences,Male,Research Director,6,Y,25
+1264,29,3,Life Sciences,Female,Research Director,3,Y,9
+1265,34,3,Technical Degree,Female,Research Scientist,0,Y,2
+1267,44,3,Marketing,Male,Manager,7,Y,26
+1268,33,5,Marketing,Male,Sales Executive,0,Y,10
+1269,19,3,Life Sciences,Female,Research Scientist,1,Y,1
+1270,23,2,Life Sciences,Male,Research Scientist,1,Y,1
+1273,25,1,Life Sciences,Male,Sales Representative,1,Y,1
+1275,26,2,Life Sciences,Male,Research Scientist,1,Y,8
+1277,45,3,Marketing,Female,Manager,2,Y,26
+1278,55,1,Medical,Male,Brand Representative,1,Y,34
+1279,21,2,Life Sciences,Female,Technician,1,Y,2
+1280,46,2,Marketing,Female,Manager,2,Y,26
+1281,34,3,Marketing,Female,Sales Executive,0,Y,4
+1282,51,3,Life Sciences,Male,Manager,4,Y,31
+1283,59,4,Medical,Male,Marketing Director,6,Y,25
+1285,34,3,Medical,Female,Technician,4,Y,15
+1286,28,4,Medical,Male,Technician,0,Y,5
+1288,44,2,Life Sciences,Male,Manager,1,Y,26
+1289,34,3,Life Sciences,Male,Human Resources,4,Y,14
+1291,35,1,Life Sciences,Male,Research Scientist,0,Y,4
+1292,42,4,Medical,Female,Research Scientist,6,Y,18
+1293,43,4,Marketing,Female,Sales Executive,3,Y,23
+1294,36,4,Life Sciences,Female,Marketing Director,9,Y,18
+1295,44,3,Medical,Female,Brand Representative,1,Y,10
+1296,28,3,Life Sciences,Male,Technician,1,Y,2
+1297,51,2,Medical,Female,Technician,0,Y,8
+1298,30,2,Medical,Female,Marketing Director,7,Y,10
+1299,29,3,Technical Degree,Female,Technician,3,Y,10
+1301,28,3,Technical Degree,Male,Research Scientist,2,Y,5
+1303,25,3,Medical,Female,Research Scientist,1,Y,2
+1304,32,3,Medical,Male,Sales Executive,1,Y,10
+1306,45,3,Medical,Female,Manager,3,Y,22
+1307,39,4,Medical,Female,Manager,6,Y,21
+1308,58,4,Life Sciences,Male,Research Scientist,1,Y,2
+1309,32,2,Life Sciences,Male,Technician,1,Y,10
+1310,39,3,Medical,Male,Research Scientist,0,Y,6
+1311,30,3,Technical Degree,Female,Technician,0,Y,10
+1312,36,4,Technical Degree,Female,Brand Representative,3,Y,10
+1314,46,2,Life Sciences,Female,Human Resources,6,Y,10
+1315,28,3,Life Sciences,Female,Technician,0,Y,10
+1317,50,3,Life Sciences,Female,Research Director,4,Y,25
+1318,40,4,Marketing,Male,Sales Executive,2,Y,9
+1319,52,3,Life Sciences,Male,Sales Executive,9,Y,10
+1321,30,4,Medical,Female,Manager,1,Y,9
+1322,39,2,Life Sciences,Male,Marketing Director,0,Y,9
+1324,31,4,Life Sciences,Female,Sales Executive,1,Y,10
+1329,41,2,Medical,Male,Sales Executive,1,Y,19
+1331,31,3,Life Sciences,Female,Sales Representative,1,Y,3
+1333,44,3,Life Sciences,Male,Technician,4,Y,10
+1334,42,1,Life Sciences,Male,Manager,0,Y,21
+1336,55,2,Medical,Female,Manager,4,Y,23
+1338,56,4,Life Sciences,Male,Manager,6,Y,36
+1340,40,2,Life Sciences,Male,Research Scientist,9,Y,6
+1344,34,3,Life Sciences,Male,Brand Representative,0,Y,10
+1346,40,3,Life Sciences,Male,Research Scientist,1,Y,9
+1349,41,3,Marketing,Female,Sales Executive,0,Y,10
+1350,35,4,Life Sciences,Male,Research Scientist,1,Y,9
+1352,51,3,Life Sciences,Male,Manager,1,Y,33
+1355,38,2,Life Sciences,Female,Sales Executive,3,Y,11
+1356,34,2,Medical,Female,Sales Executive,1,Y,10
+1358,25,1,Medical,Male,Technician,3,Y,7
+1360,58,4,Medical,Female,Marketing Director,7,Y,31
+1361,40,4,Life Sciences,Male,Technician,3,Y,7
+1362,36,3,Marketing,Female,Sales Executive,2,Y,17
+1363,48,3,Life Sciences,Male,Marketing Director,1,Y,11
+1364,27,3,Medical,Female,Sales Representative,8,Y,5
+1367,51,2,Technical Degree,Female,Marketing Director,3,Y,29
+1368,18,3,Life Sciences,Female,Technician,1,Y,0
+1369,35,3,Medical,Female,Technician,0,Y,10
+1371,27,1,Life Sciences,Male,Sales Executive,3,Y,8
+1372,55,4,Marketing,Male,Sales Executive,6,Y,24
+1373,56,3,Life Sciences,Male,Marketing Director,4,Y,33
+1374,34,1,Technical Degree,Female,Research Scientist,1,Y,5
+1375,40,1,Medical,Female,Brand Representative,5,Y,15
+1377,34,3,Medical,Male,Technician,4,Y,10
+1379,31,3,Life Sciences,Female,Sales Representative,7,Y,3
+1380,35,4,Marketing,Female,Sales Executive,0,Y,5
+1382,38,3,Life Sciences,Male,Research Scientist,1,Y,4
+1383,34,4,Technical Degree,Female,Brand Representative,1,Y,14
+1387,28,3,Life Sciences,Male,Sales Executive,1,Y,5
+1389,31,4,Medical,Male,Marketing Director,1,Y,10
+1390,39,4,Life Sciences,Male,Sales Executive,3,Y,8
+1391,51,3,Marketing,Male,Sales Executive,2,Y,14
+1392,41,3,Life Sciences,Female,Research Scientist,3,Y,12
+1394,37,1,Life Sciences,Male,Research Scientist,7,Y,8
+1395,33,1,Life Sciences,Male,Sales Executive,6,Y,8
+1396,32,1,Marketing,Male,Sales Executive,0,Y,4
+1397,39,2,Life Sciences,Male,Brand Representative,3,Y,13
+1399,25,1,Life Sciences,Male,Sales Executive,2,Y,6
+1401,52,2,Medical,Female,Marketing Director,2,Y,24
+1402,43,3,Medical,Female,Research Scientist,1,Y,20
+1403,27,3,Marketing,Female,Sales Executive,1,Y,6
+1405,27,4,Life Sciences,Female,Research Scientist,1,Y,8
+1407,26,1,Medical,Male,Research Scientist,0,Y,5
+1408,42,3,Human Resources,Female,Manager,0,Y,21
+1409,52,4,Other,Female,Technician,9,Y,12
+1411,37,3,Medical,Female,Technician,4,Y,8
+1412,35,2,Life Sciences,Male,Marketing Director,2,Y,10
+1415,25,3,Technical Degree,Male,Technician,4,Y,7
+1417,26,3,Other,Male,Technician,0,Y,8
+1419,29,3,Other,Male,Human Resources,1,Y,10
+1420,49,2,Life Sciences,Male,Technician,3,Y,20
+1421,29,1,Other,Female,Brand Representative,0,Y,9
+1422,54,3,Medical,Female,Research Director,6,Y,29
+1423,58,3,Medical,Female,Research Director,3,Y,32
+1424,55,4,Medical,Male,Research Director,2,Y,31
+1425,36,4,Marketing,Female,Sales Executive,3,Y,15
+1427,31,4,Life Sciences,Female,Sales Representative,1,Y,1
+1428,30,4,Marketing,Female,Sales Executive,7,Y,8
+1430,31,5,Life Sciences,Female,Research Director,3,Y,9
+1431,34,4,Other,Male,Research Scientist,5,Y,10
+1433,31,3,Life Sciences,Female,Research Scientist,1,Y,1
+1434,27,1,Life Sciences,Male,Technician,0,Y,6
+1435,36,4,Life Sciences,Male,Technician,1,Y,10
+1436,36,4,Marketing,Female,Sales Executive,4,Y,11
+1438,47,3,Technical Degree,Male,Research Scientist,7,Y,17
+1439,25,2,Life Sciences,Male,Sales Representative,3,Y,6
+1440,37,2,Technical Degree,Male,Technician,0,Y,7
+1441,56,2,Life Sciences,Female,Research Scientist,2,Y,5
+1443,47,4,Medical,Female,Research Director,3,Y,26
+1445,24,1,Medical,Female,Sales Executive,1,Y,5
+1446,32,5,Marketing,Male,Sales Executive,4,Y,7
+1447,34,3,Life Sciences,Female,Technician,5,Y,7
+1448,41,5,Medical,Male,Research Scientist,2,Y,7
+1449,40,4,Other,Male,Technician,3,Y,11
+1453,31,2,Life Sciences,Male,Sales Executive,1,Y,13
+1457,46,3,Marketing,Male,Sales Executive,4,Y,28
+1458,39,3,Life Sciences,Female,Technician,2,Y,11
+1459,31,5,Life Sciences,Female,Marketing Director,1,Y,10
+1460,45,3,Medical,Male,Brand Representative,2,Y,24
+1461,31,2,Medical,Female,Human Resources,9,Y,8
+1464,31,3,Life Sciences,Male,Technician,6,Y,7
+1465,45,3,Technical Degree,Male,Marketing Director,4,Y,10
+1466,48,3,Marketing,Male,Sales Executive,4,Y,15
+1467,34,4,Technical Degree,Female,Human Resources,1,Y,2
+1468,40,1,Medical,Male,Research Director,2,Y,16
+1469,28,3,Medical,Male,Sales Executive,0,Y,6
+1471,44,3,Life Sciences,Male,Technician,3,Y,7
+1472,53,3,Medical,Male,Research Director,4,Y,35
+1473,49,4,Technical Degree,Male,Brand Representative,2,Y,20
+1474,40,3,Medical,Male,Research Scientist,2,Y,8
+1475,44,3,Life Sciences,Male,Research Scientist,1,Y,6
+1477,33,3,Medical,Male,Sales Executive,0,Y,5
+1478,34,3,Other,Male,Sales Executive,3,Y,15
+1479,30,1,Life Sciences,Male,Sales Executive,8,Y,4
+1480,42,2,Medical,Female,Technician,1,Y,12
+1481,44,5,Marketing,Female,Sales Executive,7,Y,11
+1482,30,3,Technical Degree,Male,Research Scientist,1,Y,1
+1483,57,2,Life Sciences,Male,Research Scientist,0,Y,13
+1484,49,4,Life Sciences,Male,Brand Representative,3,Y,29
+1485,34,3,Medical,Male,Research Director,7,Y,16
+1486,28,3,Technical Degree,Male,Sales Representative,3,Y,5
+1487,29,3,Technical Degree,Female,Sales Executive,5,Y,7
+1489,34,4,Medical,Female,Sales Executive,0,Y,16
+1492,35,1,Life Sciences,Male,Sales Representative,1,Y,1
+1494,24,3,Medical,Male,Technician,2,Y,4
+1495,24,2,Life Sciences,Female,Sales Representative,1,Y,1
+1496,44,1,Medical,Male,Marketing Director,5,Y,16
+1497,29,3,Life Sciences,Male,Sales Executive,1,Y,10
+1499,30,3,Life Sciences,Male,Human Resources,0,Y,6
+1501,55,4,Life Sciences,Male,Brand Representative,0,Y,4
+1502,33,4,Medical,Female,Technician,8,Y,8
+1503,47,3,Medical,Female,Sales Executive,3,Y,11
+1504,28,2,Medical,Male,Technician,7,Y,8
+1506,28,3,Life Sciences,Male,Research Scientist,1,Y,1
+1507,28,3,Life Sciences,Male,Sales Executive,0,Y,5
+1509,49,2,Medical,Female,Technician,4,Y,10
+1513,29,1,Life Sciences,Female,Technician,0,Y,4
+1514,28,1,Life Sciences,Male,Marketing Director,1,Y,8
+1515,33,5,Life Sciences,Male,Brand Representative,2,Y,14
+1516,32,3,Medical,Male,Manager,2,Y,10
+1520,54,4,Medical,Female,Manager,3,Y,26
+1522,29,4,Technical Degree,Male,Research Scientist,6,Y,11
+1523,44,3,Life Sciences,Male,Research Director,3,Y,24
+1525,39,3,Life Sciences,Female,Marketing Director,4,Y,9
+1527,46,3,Life Sciences,Female,Manager,8,Y,23
+1529,35,3,Life Sciences,Female,Brand Representative,1,Y,11
+1533,23,1,Life Sciences,Male,Technician,0,Y,5
+1534,40,4,Life Sciences,Male,Technician,3,Y,15
+1535,34,3,Technical Degree,Male,Sales Executive,1,Y,10
+1537,31,3,Life Sciences,Female,Research Scientist,1,Y,7
+1539,50,5,Medical,Male,Research Director,1,Y,32
+1541,34,2,Technical Degree,Male,Sales Representative,0,Y,12
+1542,42,3,Medical,Male,Technician,4,Y,4
+1543,37,3,Medical,Male,Research Scientist,1,Y,10
+1544,29,1,Other,Female,Brand Representative,3,Y,9
+1545,33,3,Life Sciences,Male,Marketing Director,1,Y,5
+1546,45,3,Technical Degree,Male,Research Scientist,4,Y,8
+1547,42,3,Life Sciences,Male,Brand Representative,2,Y,24
+1548,40,2,Medical,Male,Sales Executive,0,Y,9
+1549,33,4,Life Sciences,Male,Technician,1,Y,15
+1550,40,2,Medical,Male,Manager,1,Y,21
+1551,24,2,Technical Degree,Male,Technician,0,Y,2
+1552,40,2,Life Sciences,Male,Brand Representative,3,Y,8
+1553,45,4,Technical Degree,Male,Brand Representative,1,Y,10
+1554,35,4,Life Sciences,Female,Sales Representative,0,Y,6
+1555,32,2,Life Sciences,Female,Research Scientist,3,Y,12
+1556,36,4,Life Sciences,Male,Sales Representative,3,Y,7
+1557,48,4,Life Sciences,Female,Sales Executive,8,Y,18
+1558,29,3,Life Sciences,Male,Research Scientist,6,Y,5
+1560,33,4,Life Sciences,Male,Sales Executive,2,Y,8
+1562,30,3,Life Sciences,Male,Sales Executive,1,Y,10
+1563,38,4,Human Resources,Male,Human Resources,3,Y,10
+1564,35,3,Medical,Male,Technician,1,Y,3
+1568,30,4,Technical Degree,Male,Sales Executive,3,Y,9
+1569,35,3,Life Sciences,Female,Technician,1,Y,1
+1572,53,5,Technical Degree,Female,Marketing Director,0,Y,34
+1573,38,3,Medical,Male,Marketing Director,4,Y,7
+1574,32,4,Technical Degree,Male,Research Scientist,4,Y,9
+1576,48,4,Other,Female,Research Scientist,8,Y,10
+1577,34,4,Medical,Male,Research Scientist,1,Y,1
+1578,55,5,Marketing,Male,Manager,1,Y,36
+1580,34,4,Life Sciences,Male,Research Scientist,9,Y,9
+1581,26,3,Life Sciences,Female,Research Scientist,1,Y,1
+1582,38,3,Life Sciences,Male,Sales Executive,0,Y,10
+1583,38,3,Life Sciences,Female,Sales Executive,2,Y,8
+1585,36,4,Life Sciences,Female,Sales Executive,6,Y,15
+1586,29,1,Medical,Male,Technician,1,Y,10
+1587,35,4,Medical,Female,Brand Representative,3,Y,10
+1588,39,3,Medical,Male,Sales Executive,2,Y,11
+1590,29,1,Life Sciences,Male,Brand Representative,1,Y,6
+1591,50,3,Marketing,Male,Manager,4,Y,27
+1592,23,3,Technical Degree,Male,Research Scientist,2,Y,4
+1594,36,4,Life Sciences,Male,Technician,3,Y,9
+1595,42,2,Other,Male,Manager,8,Y,24
+1596,35,3,Life Sciences,Male,Technician,1,Y,10
+1597,34,4,Technical Degree,Male,Brand Representative,1,Y,8
+1598,40,2,Life Sciences,Female,Sales Executive,1,Y,5
+1599,43,3,Technical Degree,Male,Technician,5,Y,8
+1601,35,2,Life Sciences,Male,Technician,1,Y,1
+1602,46,4,Life Sciences,Male,Manager,1,Y,27
+1604,28,3,Medical,Male,Technician,1,Y,1
+1605,22,2,Other,Female,Research Scientist,1,Y,4
+1606,50,5,Medical,Male,Brand Representative,2,Y,32
+1607,32,4,Other,Female,Research Scientist,3,Y,6
+1608,44,3,Medical,Female,Research Director,0,Y,23
+1609,30,3,Medical,Male,Research Scientist,1,Y,6
+1611,45,5,Medical,Female,Technician,1,Y,10
+1612,45,3,Marketing,Male,Sales Executive,1,Y,10
+1613,31,4,Other,Male,Sales Executive,7,Y,10
+1614,36,4,Life Sciences,Female,Marketing Director,9,Y,7
+1615,34,4,Life Sciences,Male,Marketing Director,1,Y,9
+1617,49,4,Life Sciences,Female,Technician,1,Y,10
+1618,39,5,Medical,Male,Marketing Director,2,Y,10
+1619,27,3,Other,Male,Technician,1,Y,7
+1621,35,5,Life Sciences,Male,Research Scientist,1,Y,16
+1622,28,3,Medical,Female,Marketing Director,0,Y,6
+1623,21,1,Medical,Male,Research Scientist,1,Y,3
+1624,18,2,Medical,Female,Sales Representative,1,Y,0
+1625,47,4,Life Sciences,Female,Manager,3,Y,27
+1627,39,2,Medical,Male,Technician,0,Y,11
+1628,40,3,Life Sciences,Female,Marketing Director,1,Y,18
+1630,35,4,Life Sciences,Female,Brand Representative,1,Y,15
+1631,37,3,Life Sciences,Male,Marketing Director,3,Y,9
+1633,39,3,Medical,Female,Marketing Director,0,Y,10
+1635,45,2,Other,Female,Marketing Director,1,Y,10
+1638,38,2,Medical,Female,Marketing Director,3,Y,10
+1639,35,3,Medical,Male,Sales Executive,9,Y,15
+1640,37,3,Medical,Female,Research Scientist,1,Y,8
+1641,40,3,Life Sciences,Female,Marketing Director,6,Y,18
+1642,44,5,Human Resources,Male,Human Resources,4,Y,14
+1644,48,5,Medical,Male,Manager,2,Y,23
+1645,35,2,Medical,Male,Sales Executive,6,Y,7
+1646,24,1,Technical Degree,Female,Research Scientist,1,Y,6
+1647,27,3,Medical,Female,Research Scientist,7,Y,5
+1648,27,3,Medical,Male,Research Scientist,2,Y,6
+1649,40,3,Life Sciences,Male,Technician,3,Y,10
+1650,29,3,Medical,Male,Sales Executive,9,Y,8
+1651,36,4,Life Sciences,Female,Brand Representative,4,Y,9
+1653,25,1,Life Sciences,Male,Marketing Director,1,Y,7
+1654,39,3,Medical,Male,Marketing Director,4,Y,7
+1655,49,4,Other,Female,Research Director,3,Y,27
+1656,50,5,Life Sciences,Female,Research Director,5,Y,19
+1657,20,3,Medical,Female,Sales Representative,1,Y,2
+1658,34,3,Life Sciences,Female,Research Scientist,1,Y,11
+1659,36,3,Life Sciences,Male,Technician,2,Y,15
+1661,49,1,Life Sciences,Female,Brand Representative,2,Y,30
+1662,36,4,Medical,Female,Marketing Director,0,Y,4
+1664,36,2,Life Sciences,Male,Brand Representative,6,Y,13
+1665,54,5,Medical,Female,Manager,3,Y,36
+1666,43,2,Life Sciences,Male,Research Director,1,Y,14
+1667,35,4,Other,Male,Sales Executive,3,Y,13
+1668,38,3,Life Sciences,Male,Research Scientist,7,Y,19
+1669,29,3,Medical,Male,Sales Executive,1,Y,10
+1670,33,4,Medical,Male,Sales Executive,1,Y,6
+1671,32,3,Medical,Male,Research Scientist,0,Y,10
+1673,31,4,Life Sciences,Female,Sales Executive,1,Y,10
+1674,49,3,Medical,Female,Technician,4,Y,17
+1675,38,3,Medical,Female,Technician,1,Y,4
+1676,47,4,Life Sciences,Female,Manager,6,Y,29
+1677,49,3,Life Sciences,Male,Manager,4,Y,23
+1678,41,2,Life Sciences,Male,Sales Executive,3,Y,21
+1680,20,1,Life Sciences,Male,Sales Representative,1,Y,2
+1681,33,3,Life Sciences,Female,Sales Executive,1,Y,7
+1682,36,4,Life Sciences,Male,Brand Representative,6,Y,10
+1683,44,3,Life Sciences,Female,Human Resources,4,Y,8
+1684,23,1,Medical,Male,Technician,1,Y,5
+1687,38,2,Medical,Female,Technician,7,Y,7
+1689,53,4,Medical,Male,Brand Representative,3,Y,11
+1691,48,2,Medical,Female,Sales Representative,2,Y,19
+1692,32,4,Life Sciences,Male,Technician,1,Y,1
+1693,26,3,Medical,Male,Technician,1,Y,7
+1694,55,3,Technical Degree,Male,Research Scientist,5,Y,8
+1696,34,2,Medical,Male,Technician,1,Y,15
+1697,60,4,Medical,Male,Brand Representative,3,Y,19
+1698,33,3,Medical,Male,Technician,1,Y,14
+1700,37,4,Medical,Male,Sales Executive,1,Y,6
+1701,34,3,Life Sciences,Female,Research Scientist,1,Y,10
+1702,23,3,Life Sciences,Male,Sales Representative,1,Y,3
+1703,44,3,Life Sciences,Female,Brand Representative,1,Y,9
+1704,35,4,Medical,Male,Research Scientist,0,Y,6
+1706,43,3,Medical,Male,Sales Executive,1,Y,10
+1707,24,3,Medical,Male,Research Scientist,1,Y,5
+1708,41,3,Marketing,Male,Sales Executive,1,Y,10
+1709,29,4,Medical,Female,Technician,9,Y,9
+1710,36,4,Life Sciences,Female,Sales Representative,3,Y,17
+1712,45,1,Life Sciences,Male,Brand Representative,3,Y,25
+1714,24,1,Human Resources,Male,Human Resources,1,Y,1
+1716,47,3,Life Sciences,Male,Sales Executive,7,Y,25
+1718,26,4,Medical,Male,Technician,1,Y,3
+1719,45,2,Technical Degree,Female,Research Director,1,Y,21
+1720,32,3,Life Sciences,Male,Research Scientist,6,Y,10
+1721,31,4,Life Sciences,Male,Technician,1,Y,6
+1722,41,3,Human Resources,Male,Human Resources,6,Y,10
+1724,40,2,Life Sciences,Female,Marketing Director,2,Y,18
+1725,24,1,Medical,Male,Technician,1,Y,6
+1727,46,4,Life Sciences,Male,Brand Representative,6,Y,19
+1728,35,4,Life Sciences,Male,Marketing Director,2,Y,17
+1729,30,1,Life Sciences,Male,Research Scientist,1,Y,10
+1731,47,4,Marketing,Male,Sales Executive,7,Y,4
+1732,46,3,Life Sciences,Male,Sales Executive,4,Y,13
+1733,36,5,Marketing,Male,Sales Executive,5,Y,16
+1734,32,2,Life Sciences,Male,Sales Executive,6,Y,10
+1735,23,1,Medical,Female,Technician,1,Y,3
+1736,31,1,Technical Degree,Female,Marketing Director,2,Y,9
+1737,39,3,Life Sciences,Male,Technician,1,Y,9
+1739,32,3,Life Sciences,Male,Sales Executive,3,Y,10
+1740,40,4,Medical,Male,Manager,1,Y,21
+1744,45,3,Life Sciences,Female,Human Resources,4,Y,9
+1745,30,4,Technical Degree,Female,Research Scientist,0,Y,10
+1746,24,3,Medical,Male,Human Resources,0,Y,3
+1747,30,3,Human Resources,Female,Human Resources,6,Y,6
+1749,31,3,Technical Degree,Male,Sales Executive,1,Y,6
+1751,27,3,Medical,Female,Research Scientist,1,Y,6
+1752,29,3,Marketing,Female,Sales Representative,1,Y,2
+1753,29,3,Life Sciences,Male,Brand Representative,8,Y,10
+1754,30,2,Marketing,Male,Sales Executive,2,Y,12
+1755,34,4,Medical,Male,Research Scientist,0,Y,6
+1756,33,3,Marketing,Female,Sales Executive,8,Y,13
+1757,49,4,Marketing,Female,Sales Executive,3,Y,8
+1758,33,3,Life Sciences,Female,Sales Executive,2,Y,11
+1760,38,2,Medical,Female,Technician,4,Y,9
+1761,31,4,Marketing,Male,Sales Executive,2,Y,10
+1762,29,3,Technical Degree,Female,Research Scientist,1,Y,1
+1763,30,3,Life Sciences,Male,Brand Representative,3,Y,10
+1764,32,4,Technical Degree,Male,Research Scientist,2,Y,12
+1766,38,3,Medical,Male,Brand Representative,3,Y,15
+1767,43,3,Technical Degree,Male,Research Scientist,9,Y,6
+1768,42,3,Medical,Male,Technician,8,Y,7
+1770,55,3,Medical,Male,Research Director,8,Y,34
+1771,33,3,Technical Degree,Male,Research Scientist,5,Y,11
+1772,41,4,Life Sciences,Male,Technician,1,Y,5
+1774,34,3,Life Sciences,Male,Sales Executive,1,Y,15
+1775,53,4,Medical,Female,Marketing Director,4,Y,27
+1778,43,3,Life Sciences,Male,Human Resources,0,Y,10
+1779,34,2,Life Sciences,Female,Sales Executive,5,Y,6
+1780,21,1,Marketing,Male,Sales Representative,1,Y,1
+1782,38,2,Other,Female,Technician,1,Y,5
+1783,22,1,Medical,Female,Technician,1,Y,1
+1784,31,4,Marketing,Female,Sales Executive,1,Y,13
+1786,51,3,Technical Degree,Female,Manager,2,Y,15
+1787,37,2,Marketing,Male,Sales Executive,1,Y,5
+1789,46,4,Medical,Male,Research Director,7,Y,24
+1790,36,3,Life Sciences,Male,Brand Representative,7,Y,15
+1792,44,2,Medical,Male,Research Scientist,1,Y,6
+1794,37,2,Other,Male,Human Resources,2,Y,19
+1797,35,3,Life Sciences,Male,Sales Executive,1,Y,10
+1798,33,4,Life Sciences,Male,Research Scientist,6,Y,14
+1799,28,3,Life Sciences,Male,Research Scientist,1,Y,5
+1800,39,1,Medical,Male,Research Director,7,Y,9
+1801,46,2,Life Sciences,Male,Sales Executive,8,Y,6
+1802,40,2,Life Sciences,Female,Technician,4,Y,7
+1803,42,3,Medical,Male,Brand Representative,5,Y,10
+1804,35,2,Medical,Male,Marketing Director,2,Y,15
+1805,38,3,Human Resources,Male,Human Resources,5,Y,13
+1807,34,4,Life Sciences,Male,Technician,4,Y,11
+1809,37,4,Medical,Male,Marketing Director,1,Y,10
+1812,39,3,Life Sciences,Male,Sales Executive,2,Y,7
+1813,43,3,Life Sciences,Male,Research Scientist,4,Y,7
+1814,41,3,Life Sciences,Male,Brand Representative,3,Y,11
+1815,41,1,Marketing,Female,Sales Executive,0,Y,23
+1816,30,3,Medical,Female,Marketing Director,9,Y,9
+1818,26,2,Medical,Female,Human Resources,0,Y,6
+1821,46,2,Medical,Female,Brand Representative,4,Y,13
+1822,40,3,Life Sciences,Female,Brand Representative,4,Y,12
+1823,34,2,Technical Degree,Male,Sales Executive,1,Y,10
+1824,58,3,Medical,Male,Manager,4,Y,37
+1826,35,4,Medical,Male,Technician,0,Y,6
+1827,47,3,Life Sciences,Female,Marketing Director,8,Y,28
+1829,40,3,Life Sciences,Female,Brand Representative,2,Y,15
+1830,54,4,Medical,Female,Research Scientist,4,Y,14
+1833,31,4,Marketing,Female,Sales Executive,2,Y,9
+1834,28,3,Medical,Female,Research Scientist,1,Y,3
+1835,38,4,Marketing,Female,Sales Representative,2,Y,20
+1836,26,3,Medical,Male,Sales Executive,1,Y,5
+1837,58,4,Life Sciences,Male,Research Director,2,Y,23
+1839,18,3,Medical,Female,Research Scientist,1,Y,0
+1842,31,5,Human Resources,Male,Human Resources,0,Y,2
+1844,29,3,Human Resources,Male,Human Resources,4,Y,4
+1845,45,4,Life Sciences,Female,Sales Executive,4,Y,10
+1847,36,4,Other,Female,Research Scientist,4,Y,15
+1849,43,4,Life Sciences,Male,Sales Executive,1,Y,7
+1850,27,2,Life Sciences,Female,Technician,0,Y,6
+1852,29,1,Medical,Male,Technician,1,Y,11
+1853,32,4,Marketing,Male,Sales Executive,8,Y,4
+1854,42,4,Technical Degree,Male,Research Scientist,3,Y,10
+1856,47,4,Life Sciences,Female,Technician,4,Y,7
+1857,46,2,Life Sciences,Male,Marketing Director,3,Y,12
+1858,28,2,Life Sciences,Male,Human Resources,1,Y,3
+1859,29,1,Life Sciences,Male,Brand Representative,8,Y,11
+1860,42,3,Life Sciences,Male,Technician,4,Y,8
+1862,32,4,Marketing,Male,Sales Executive,7,Y,7
+1863,46,3,Technical Degree,Female,Sales Executive,2,Y,25
+1864,27,1,Medical,Female,Sales Representative,1,Y,9
+1865,29,1,Medical,Male,Human Resources,1,Y,1
+1866,43,3,Medical,Female,Manager,7,Y,21
+1867,48,3,Life Sciences,Male,Research Director,4,Y,29
+1868,29,2,Life Sciences,Male,Research Scientist,1,Y,1
+1869,46,3,Life Sciences,Female,Sales Executive,5,Y,14
+1870,27,3,Life Sciences,Female,Research Scientist,0,Y,8
+1871,39,4,Other,Male,Research Scientist,8,Y,7
+1873,55,4,Technical Degree,Male,Research Scientist,8,Y,19
+1875,28,3,Medical,Female,Sales Representative,1,Y,1
+1876,30,3,Medical,Male,Sales Representative,1,Y,1
+1878,22,1,Life Sciences,Male,Research Scientist,1,Y,1
+1880,36,4,Technical Degree,Female,Sales Executive,1,Y,10
+1881,31,3,Life Sciences,Male,Technician,1,Y,10
+1882,34,3,Life Sciences,Male,Sales Executive,2,Y,9
+1883,29,3,Life Sciences,Male,Technician,3,Y,11
+1885,37,4,Medical,Male,Research Scientist,5,Y,16
+1886,35,2,Other,Female,Marketing Director,0,Y,4
+1888,45,2,Life Sciences,Female,Marketing Director,0,Y,10
+1890,36,1,Human Resources,Male,Human Resources,1,Y,10
+1892,40,4,Life Sciences,Male,Manager,2,Y,22
+1893,26,2,Life Sciences,Female,Research Scientist,1,Y,1
+1898,27,2,Medical,Female,Sales Executive,0,Y,9
+1900,48,3,Medical,Female,Manager,3,Y,24
+1903,44,4,Life Sciences,Male,Brand Representative,2,Y,10
+1905,34,4,Technical Degree,Male,Research Scientist,1,Y,5
+1907,56,2,Life Sciences,Male,Technician,1,Y,5
+1908,36,2,Marketing,Male,Sales Executive,2,Y,12
+1909,41,3,Marketing,Female,Sales Executive,5,Y,14
+1911,42,3,Medical,Male,Research Director,9,Y,18
+1912,31,2,Medical,Female,Sales Executive,2,Y,8
+1915,34,1,Medical,Female,Sales Executive,3,Y,9
+1916,31,3,Medical,Female,Technician,8,Y,4
+1918,26,3,Other,Male,Technician,0,Y,8
+1922,45,4,Medical,Male,Brand Representative,4,Y,12
+1924,33,4,Marketing,Male,Sales Executive,1,Y,10
+1927,28,2,Life Sciences,Male,Sales Executive,1,Y,7
+1928,29,3,Technical Degree,Male,Sales Representative,1,Y,1
+1929,39,4,Life Sciences,Female,Sales Executive,6,Y,10
+1931,27,4,Technical Degree,Male,Research Scientist,1,Y,6
+1932,34,4,Other,Male,Research Scientist,1,Y,16
+1933,28,2,Marketing,Female,Sales Executive,3,Y,6
+1934,47,4,Technical Degree,Male,Research Scientist,8,Y,16
+1935,56,5,Marketing,Female,Sales Executive,4,Y,6
+1936,39,2,Medical,Male,Marketing Director,1,Y,10
+1937,38,3,Medical,Female,Research Scientist,1,Y,20
+1938,58,3,Life Sciences,Female,Manager,4,Y,29
+1939,32,2,Life Sciences,Female,Research Scientist,3,Y,8
+1940,38,2,Life Sciences,Male,Research Scientist,2,Y,10
+1941,49,1,Life Sciences,Male,Research Director,3,Y,28
+1943,42,4,Marketing,Male,Sales Executive,3,Y,14
+1944,27,3,Human Resources,Female,Human Resources,1,Y,1
+1945,35,4,Medical,Male,Sales Executive,0,Y,6
+1947,28,3,Medical,Male,Research Scientist,1,Y,5
+1948,31,2,Medical,Male,Research Scientist,1,Y,4
+1949,36,4,Life Sciences,Male,Technician,1,Y,5
+1950,34,3,Marketing,Male,Sales Executive,1,Y,14
+1951,34,4,Medical,Male,Sales Executive,1,Y,9
+1952,26,3,Medical,Male,Technician,0,Y,8
+1954,29,3,Life Sciences,Male,Brand Representative,0,Y,6
+1955,32,4,Medical,Female,Brand Representative,5,Y,9
+1956,31,3,Life Sciences,Male,Research Scientist,1,Y,10
+1960,28,3,Technical Degree,Male,Technician,5,Y,6
+1961,38,3,Life Sciences,Male,Sales Representative,4,Y,20
+1962,35,4,Life Sciences,Female,Sales Executive,1,Y,10
+1965,27,3,Marketing,Male,Sales Executive,1,Y,7
+1966,32,4,Life Sciences,Male,Marketing Director,8,Y,8
+1967,31,4,Marketing,Male,Sales Executive,1,Y,10
+1968,53,4,Life Sciences,Male,Sales Executive,6,Y,15
+1969,54,2,Life Sciences,Female,Research Scientist,3,Y,9
+1970,33,2,Life Sciences,Male,Brand Representative,1,Y,9
+1971,43,3,Life Sciences,Male,Brand Representative,1,Y,10
+1972,38,4,Other,Male,Human Resources,0,Y,7
+1973,55,4,Human Resources,Male,Manager,4,Y,35
+1974,31,1,Medical,Female,Technician,1,Y,1
+1975,39,4,Marketing,Male,Sales Executive,0,Y,21
+1976,42,2,Life Sciences,Male,Research Scientist,1,Y,20
+1979,31,3,Medical,Female,Research Director,4,Y,13
+1980,54,3,Medical,Female,Marketing Director,6,Y,9
+1981,24,2,Life Sciences,Male,Brand Representative,1,Y,4
+1982,23,2,Other,Male,Technician,1,Y,5
+1985,40,3,Technical Degree,Female,Technician,1,Y,10
+1986,40,2,Marketing,Female,Sales Executive,3,Y,15
+1987,25,3,Human Resources,Female,Human Resources,4,Y,6
+1989,30,2,Medical,Male,Technician,1,Y,12
+1992,25,1,Other,Male,Technician,6,Y,7
+1993,47,3,Medical,Male,Brand Representative,2,Y,25
+1994,33,2,Medical,Male,Technician,1,Y,1
+1995,38,4,Life Sciences,Male,Sales Executive,0,Y,16
+1996,31,2,Life Sciences,Male,Sales Representative,0,Y,3
+1997,38,4,Life Sciences,Male,Marketing Director,2,Y,10
+1998,42,4,Life Sciences,Male,Research Scientist,6,Y,9
+1999,41,3,Life Sciences,Male,Research Scientist,3,Y,12
+2000,47,1,Medical,Female,Research Director,0,Y,14
+2003,35,4,Medical,Male,Technician,7,Y,5
+2007,22,2,Life Sciences,Male,Research Scientist,0,Y,4
+2008,35,4,Medical,Male,Research Scientist,1,Y,10
+2009,33,2,Medical,Female,Brand Representative,0,Y,10
+2010,32,4,Life Sciences,Female,Technician,1,Y,6
+2012,40,4,Life Sciences,Male,Technician,8,Y,8
+2013,32,4,Medical,Male,Sales Representative,0,Y,3
+2014,39,1,Life Sciences,Male,Research Scientist,7,Y,18
+2015,38,3,Medical,Female,Research Director,3,Y,20
+2016,32,4,Marketing,Female,Sales Executive,1,Y,14
+2017,37,3,Life Sciences,Female,Research Director,1,Y,16
+2018,25,2,Other,Female,Sales Executive,0,Y,6
+2019,52,4,Life Sciences,Male,Sales Representative,2,Y,16
+2020,44,3,Medical,Male,Research Scientist,6,Y,6
+2021,21,1,Medical,Male,Sales Representative,1,Y,2
+2022,39,3,Life Sciences,Male,Manager,2,Y,21
+2023,23,3,Marketing,Male,Sales Representative,1,Y,1
+2024,36,3,Medical,Female,Sales Executive,0,Y,10
+2025,36,2,Life Sciences,Female,Marketing Director,7,Y,18
+2026,56,4,Life Sciences,Male,Brand Representative,1,Y,13
+2027,29,4,Medical,Male,Research Scientist,9,Y,4
+2031,42,3,Life Sciences,Male,Manager,5,Y,24
+2032,56,2,Technical Degree,Male,Technician,8,Y,14
+2034,41,4,Life Sciences,Female,Marketing Director,0,Y,21
+2035,34,3,Marketing,Female,Sales Executive,1,Y,8
+2036,36,4,Marketing,Male,Sales Executive,1,Y,15
+2037,41,3,Life Sciences,Male,Sales Executive,2,Y,14
+2038,32,3,Technical Degree,Male,Research Scientist,1,Y,4
+2040,35,4,Life Sciences,Female,Human Resources,1,Y,9
+2041,38,2,Life Sciences,Female,Sales Executive,1,Y,10
+2044,50,4,Life Sciences,Male,Sales Executive,7,Y,12
+2045,36,4,Marketing,Female,Sales Executive,4,Y,8
+2046,45,3,Life Sciences,Female,Sales Executive,8,Y,8
+2048,40,4,Life Sciences,Male,Research Scientist,2,Y,8
+2049,35,4,Life Sciences,Male,Brand Representative,1,Y,10
+2051,40,4,Medical,Female,Research Scientist,2,Y,20
+2052,35,4,Life Sciences,Female,Research Scientist,1,Y,4
+2053,29,2,Other,Male,Technician,4,Y,10
+2054,29,4,Medical,Female,Research Scientist,1,Y,5
+2055,50,3,Marketing,Male,Sales Executive,4,Y,20
+2056,39,1,Marketing,Female,Sales Executive,0,Y,21
+2057,31,3,Medical,Male,Marketing Director,0,Y,10
+2060,26,3,Other,Female,Sales Representative,0,Y,5
+2061,36,2,Medical,Male,Technician,4,Y,17
+2062,39,1,Medical,Male,Brand Representative,4,Y,9
+2064,27,3,Life Sciences,Male,Marketing Director,1,Y,6
+2065,49,3,Medical,Male,Sales Executive,2,Y,17
+2068,34,3,Medical,Male,Technician,2,Y,6
